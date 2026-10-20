@@ -16,6 +16,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Instalar optimizador de imágenes
+        run: npm install --no-save --no-package-lock sharp@0.33.5
       - name: Recolectar noticias
         run: node scripts/noticias.mjs
         env:

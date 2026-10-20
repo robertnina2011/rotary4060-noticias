@@ -74,18 +74,57 @@ const meta = (html, ...names) => {
   }
   return null;
 };
+// copia propia de la foto (los visores que bloquean imágenes de otros dominios la muestran igual).
+// Con «sharp» instalado se reduce a 1200 px en WebP; si no, se guarda tal cual.
+import {promises as fsp} from 'node:fs';
+import {fileURLToPath as f2p} from 'node:url';
+import nodePath from 'node:path';
+const DATA_DIR = nodePath.join(nodePath.dirname(f2p(import.meta.url)), '..', 'data');
+let sharp = null;
+try { sharp = (await import('sharp')).default; } catch {}
+async function guardarFoto(url, id) {
+  try {
+    const r = await fetch(url, {headers: {'user-agent': UA, referer: new URL(url).origin}});
+    if (!r.ok || !/image\//.test(r.headers.get('content-type') || '')) return null;
+    let buf = Buffer.from(await r.arrayBuffer());
+    if (buf.length < 4000) return null; // iconos o píxeles de seguimiento
+    let ext = (r.headers.get('content-type').split('/')[1] || 'jpg').split(';')[0].replace('jpeg', 'jpg');
+    if (sharp) { buf = await sharp(buf).rotate().resize({width: 1200, withoutEnlargement: true}).webp({quality: 74}).toBuffer(); ext = 'webp'; }
+    await fsp.mkdir(nodePath.join(DATA_DIR, 'img'), {recursive: true});
+    const rel = `img/${id}.${ext}`;
+    await fsp.writeFile(nodePath.join(DATA_DIR, rel), buf);
+    return rel;
+  } catch { return null; }
+}
+
+// primeros párrafos de la nota, como extracto citado (no se copia la nota completa)
+function extracto(html) {
+  const body = (html.match(/<article[\s\S]*?<\/article>/i) || html.match(/<main[\s\S]*?<\/main>/i) || [html])[0];
+  const ps = [...body.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)].map(m => limpiar(m[1]))
+    .filter(t => t.length > 70 && !/©|copyright|suscr[ií]b|newsletter|cookies|publicidad|s[ií]guenos|whatsapp|compartir|lee tambi[eé]n|relacionad/i.test(t));
+  const out = []; let n = 0;
+  for (const t of ps) { if (n > 650) break; out.push(t); n += t.length; }
+  return out;
+}
+
+const VERSION = 2; // al subirla, las noticias ya guardadas se vuelven a completar (foto propia y extracto)
 async function enriquecer(n) {
-  if (n.tipo !== 'prensa' || n.revisado) return n;
-  const real = await enlaceReal(n.url);
-  const html = real ? await get(real, 15000) : null;
-  const out = {...n, revisado: true};
-  if (real) out.original = real;
-  if (html) {
-    const img = meta(html, 'og:image', 'twitter:image', 'og:image:url');
-    if (img && /^https?:/.test(img) && !/logo|favicon|placeholder|default/i.test(img)) out.imagen = img;
-    const d = meta(html, 'og:description', 'description', 'twitter:description');
-    if (d && d.length > 40) out.resumen = d.slice(0, 320);
+  if (n.v === VERSION) return n;
+  const out = {...n, v: VERSION, revisado: true};
+  if (n.tipo === 'prensa') {
+    const real = n.original || await enlaceReal(n.url);
+    const html = real ? await get(real, 15000) : null;
+    if (real) out.original = real;
+    if (html) {
+      const img = meta(html, 'og:image', 'twitter:image', 'og:image:url');
+      if (img && /^https?:/.test(img) && !/logo|favicon|placeholder|default/i.test(img)) out.imagen = img;
+      const d = meta(html, 'og:description', 'description', 'twitter:description');
+      if (d && d.length > 40) out.resumen = d.slice(0, 320);
+      const ex = extracto(html);
+      if (ex.length) out.extracto = ex;
+    }
   }
+  if (out.imagen && !out.foto) out.foto = await guardarFoto(out.imagen, out.id);
   return out;
 }
 
@@ -159,7 +198,7 @@ export async function recolectar(archivoPrevio = [], env = {}) {
     else if (!prev.imagen && n.imagen) vistos.set(k, {...prev, imagen: n.imagen, resumen: prev.resumen || n.resumen});
   }
   let archivo = [...vistos.values()].map(n => ({...n, id: n.id || idDe(n.titulo)})).sort((a, b) => b.fecha.localeCompare(a.fecha));
-  const pendientes = archivo.filter(n => n.tipo === 'prensa' && !n.revisado).slice(0, 30);
+  const pendientes = archivo.filter(n => n.v !== VERSION).slice(0, 40);
   for (let i = 0; i < pendientes.length; i += 3) {
     const hechos = await Promise.all(pendientes.slice(i, i + 3).map(enriquecer));
     hechos.forEach(h => { archivo[archivo.findIndex(n => n.id === h.id)] = h; });
