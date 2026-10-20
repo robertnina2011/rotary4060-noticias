@@ -47,6 +47,48 @@ async function get(url, ms = 15000, as = 'text') {
   } catch { return null; } finally { clearTimeout(t); }
 }
 
+// identificador estable y corto para la página de cada noticia (noticia.html?id=…)
+const idDe = t => { let h = 2166136261; for (const ch of clave(t)) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return (h >>> 0).toString(36); };
+
+// enlace real de una noticia de Google Noticias (el RSS solo trae un enlace intermedio)
+async function enlaceReal(gnUrl) {
+  const id = (gnUrl.split('/articles/')[1] || '').split('?')[0];
+  if (!id) return null;
+  const h = await get(`https://news.google.com/rss/articles/${id}`);
+  const sg = h && (h.match(/data-n-a-sg="([^"]+)"/) || [])[1], ts = h && (h.match(/data-n-a-ts="([^"]+)"/) || [])[1];
+  if (!sg || !ts) return null;
+  const req = [[['Fbv4je', `["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"${id}",${ts},"${sg}"]`, null, 'generic']]];
+  try {
+    const r = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {method: 'POST',
+      headers: {'user-agent': UA, 'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'}, body: 'f.req=' + encodeURIComponent(JSON.stringify(req))});
+    const m = (await r.text()).match(/\\"garturlres\\",\\"([^\\]+)\\"/);
+    return m ? m[1] : null;
+  } catch { return null; }
+}
+
+// imagen y resumen que el propio medio publica para compartir (etiquetas og:): no se copia el artículo
+const meta = (html, ...names) => {
+  for (const n of names) {
+    const m = html.match(new RegExp(`<meta[^>]+(?:property|name)=["']${n}["'][^>]*content=["']([^"']+)["']`, 'i')) || html.match(new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]*(?:property|name)=["']${n}["']`, 'i'));
+    if (m) return limpiar(m[1]);
+  }
+  return null;
+};
+async function enriquecer(n) {
+  if (n.tipo !== 'prensa' || n.revisado) return n;
+  const real = await enlaceReal(n.url);
+  const html = real ? await get(real, 15000) : null;
+  const out = {...n, revisado: true};
+  if (real) out.original = real;
+  if (html) {
+    const img = meta(html, 'og:image', 'twitter:image', 'og:image:url');
+    if (img && /^https?:/.test(img) && !/logo|favicon|placeholder|default/i.test(img)) out.imagen = img;
+    const d = meta(html, 'og:description', 'description', 'twitter:description');
+    if (d && d.length > 40) out.resumen = d.slice(0, 320);
+  }
+  return out;
+}
+
 async function googleNoticias() {
   const out = [];
   for (const q of BUSQUEDAS) {
@@ -66,8 +108,17 @@ async function googleNoticias() {
   return out;
 }
 
+// HTML seguro y breve del contenido del distrito: solo párrafos, listas, énfasis, enlaces e imágenes
+const depurar = h => String(h || '')
+  .replace(/<(script|style|iframe|form)[\s\S]*?<\/\1>/gi, '')
+  .replace(/<(\/?)(p|ul|ol|li|strong|em|b|i|h2|h3|h4|br)\b[^>]*>/gi, '<$1$2>')
+  .replace(/<a\b[^>]*href=["'](https?:[^"']+)["'][^>]*>/gi, '<a href="$1" target="_blank" rel="noopener">')
+  .replace(/<img\b[^>]*src=["'](https?:[^"']+)["'][^>]*>/gi, '<img src="$1" alt="" loading="lazy">')
+  .replace(/<(?!\/?(p|ul|ol|li|strong|em|b|i|h2|h3|h4|br|a|img)\b)[^>]+>/gi, '')
+  .replace(/\s+/g, ' ').trim().slice(0, 15000);
+
 async function sitioDistrito() {
-  const posts = await get('https://rotary4060.org/wp-json/wp/v2/posts?per_page=10&_embed=wp:featuredmedia&_fields=date,link,title,excerpt,_embedded,_links', 15000, 'json');
+  const posts = await get('https://rotary4060.org/wp-json/wp/v2/posts?per_page=10&_embed=wp:featuredmedia&_fields=date,link,title,excerpt,content,_embedded,_links', 15000, 'json');
   if (!Array.isArray(posts)) return [];
   return posts.map(p => ({
     titulo: limpiar(p.title && p.title.rendered),
@@ -76,6 +127,7 @@ async function sitioDistrito() {
     fecha: new Date(p.date).toISOString(),
     resumen: limpiar(p.excerpt && p.excerpt.rendered).slice(0, 220),
     imagen: (((p._embedded || {})['wp:featuredmedia'] || [])[0] || {}).source_url || null,
+    contenido: depurar(p.content && p.content.rendered),
     tipo: 'distrito'
   })).filter(p => p.titulo);
 }
@@ -106,9 +158,15 @@ export async function recolectar(archivoPrevio = [], env = {}) {
     if (!prev) vistos.set(k, {...n, visto: n.visto || new Date().toISOString()});
     else if (!prev.imagen && n.imagen) vistos.set(k, {...prev, imagen: n.imagen, resumen: prev.resumen || n.resumen});
   }
-  const archivo = [...vistos.values()].sort((a, b) => b.fecha.localeCompare(a.fecha));
+  let archivo = [...vistos.values()].map(n => ({...n, id: n.id || idDe(n.titulo)})).sort((a, b) => b.fecha.localeCompare(a.fecha));
+  const pendientes = archivo.filter(n => n.tipo === 'prensa' && !n.revisado).slice(0, 30);
+  for (let i = 0; i < pendientes.length; i += 3) {
+    const hechos = await Promise.all(pendientes.slice(i, i + 3).map(enriquecer));
+    hechos.forEach(h => { archivo[archivo.findIndex(n => n.id === h.id)] = h; });
+  }
   const limite = Date.now() - DIAS_VIGENCIA * 864e5;
-  const vigentes = archivo.filter(n => +new Date(n.fecha) >= limite).slice(0, VIGENTES);
+  // las recientes primero; si hay pocas, se completa con las siguientes más nuevas para que la portada nunca quede vacía
+  const vigentes = [...archivo.filter(n => +new Date(n.fecha) >= limite), ...archivo.filter(n => +new Date(n.fecha) < limite)].slice(0, VIGENTES);
   const actualizado = new Date().toISOString();
   return {
     noticias: {actualizado, vigentes},

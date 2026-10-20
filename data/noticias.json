@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T15:34:57.300Z",
+ "actualizado": "2026-10-20T15:39:48.348Z",
  "vigentes": [
   {
    "titulo": "Licey y Águilas el sábado a beneficio del Club Rotario Garabito",
@@ -7,7 +7,12 @@
    "fuente": "Momento Deportivo RD",
    "fecha": "2026-10-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "kny6eg",
+   "revisado": true,
+   "original": "https://momentodeportivord.com/licey-y-aguilas-el-sabado-a-beneficio-del-club-rotario-garabito/",
+   "imagen": "https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2026/10/Foto-Juan-Ramon-Reyes-e1791137754130.jpg?resize=480%2C487&ssl=1",
+   "resumen": "El club Ratario Garabito construye obras benéficas en sectores pobres con la recaudación de esos juegos."
   },
   {
    "titulo": "Sepultan a Alcibíades Lorenzo, servidor rotario",
@@ -15,7 +20,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2026-08-18T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "o1oly4",
+   "revisado": true,
+   "original": "https://hoy.com.do/el-pais/sepultan-alcibiades-lorenzo-servidor-rotario_1099176.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/08/17/6a83c5f07dad2.jpeg",
+   "resumen": "En el Club Rotario, Alcibíades Lorenzo gestionaba visado, hospitales y hospedaje a personas enfermas y de escasos recursos."
   },
   {
    "titulo": "Clubes Rotary y Rotaract imparten charla sobre lactancia materna en San Cristóbal",
@@ -23,7 +33,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-08-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "hsbq7d",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/clubes-rotary-y-rotaract-imparten-charla-sobre-lactancia-materna-en-san-cristobal/"
   },
   {
    "titulo": "Club Rotaract San Cristóbal anuncia inicio de la iniciativa a la Escuela con Rotaract",
@@ -31,7 +44,12 @@
    "fuente": "RC Noticias",
    "fecha": "2026-07-16T22:07:38.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "g4ybj7",
+   "revisado": true,
+   "original": "https://robertocavada.com/club-rotaract-san-cristobal-anuncia-inicio-de-la-iniciativa-a-la-escuela-con-rotaract/",
+   "imagen": "https://robertocavada.com/wp-content/uploads/2026/07/Club-Rotaract-San-Cristobal-anuncia-inicio-de-la-iniciativa-a-la-Escuela-con-Rotaract.webp",
+   "resumen": "Por: Francisca Frías San Cristóbal, R.D.- Con gran esmero, esperanza y un mensaje motivador el Club Rotaract San Cristóbal anunció ayer en sus redes sociales el incio de la iniciativa “A la e…"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista juramenta nueva directiva encabezada por Ana Divi Arbaje",
@@ -39,7 +57,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-07-09T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "3azjo7",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santo-domingo-bella-vista-juramenta-nueva-directiva-encabezada-por-ana-divi-arbaje/"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista presenta sus memorias",
@@ -47,7 +68,11 @@
    "fuente": "Listín Diario",
    "fecha": "2026-06-30T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1b63bku",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20260630/club-rotario-santo-domingo-bella-vista-presenta-memorias_911895.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2026/06/30/6a43e044ea3ac.jpeg"
   },
   {
    "titulo": "Rotary Club Santo Domingo Colonial celebra su 57 aniversario; juramenta nuevos socios",
@@ -55,7 +80,71 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-05-30T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "j5ecsv",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-club-santo-domingo-colonial-celebra-su-57-aniversario-juramenta-nuevos-socios/"
+  },
+  {
+   "titulo": "Mujeres que transforman: Rotary homenajea a líderes en Santo Domingo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGV3MTFPTW5WUkpldXEtbVhEb3VsUFlGVzF2WmlvampxWUhmYmxieFNsUmZRMTFsbVRDaUUwQlZjSE94bDBPWEFJWjNKUWNKUWpwWFNhOXNueGxNZFZtRkU1VTF2Z3lvWGNscDJlQWExNnM5RVVfalJ1Q3R4X3h2MXQ5UkFZR3pDakNGX19PeXNnWTJvV2VEYjhB0gGfAUFVX3lxTE40UnN5S1VzcVBxenhEb202Z1loR3h4cWJaMUhyUlVBNkprN1VQUXNJdl80cnNOVUltX3hnRjdPTVF0VlFFMXZ5SVF0SVZnb0w0Wmp0bUNMc0lvd29ZSXlzVEdyendVNWRaVGdhMDNpNGZWQ043YVoyRTVUMlk4MmNNZ3RkenpCNDBEdmtzWkdZVEkyT21pU0pJTEp6UnpFOA?oc=5",
+   "fuente": "Hoy Digital",
+   "fecha": "2026-03-15T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "woml6d",
+   "revisado": true,
+   "original": "https://hoy.com.do/vivir/rostros/distrito-4060-rotary-reconoce-70-mujeres-lideres_1079715.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/03/15/69b6ae6fd0a38.r_d.376-293-0.jpeg",
+   "resumen": "El acto fue dedicado a la pasada presidenta Marilis Pérez de Díaz, reconocida por su trayectoria de servicio, su temple y su entrega a la causa rotaria."
+  },
+  {
+   "titulo": "Carolina Mejía recibe máximo galardón de Rotary en RD por Día de la Mujer",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFdjUDlsYVAtam8tZGUzMGdkMUdkNGJhUE9pVGdsTUtCT2I2OTNFcFd5cGdxdFRodG1TN0FsTDFRNEtwVWlqTlJOdFM2SW5CdFNHNVdQMnM0Mk5yLVNiUGVEeVRGbFBLcFNYa3dzTkRNdjJwMEkzMTFIMzZyN2JPX0Q2THMxYlhHbS16UE50OFlsM25NU2l3bHNQONIBoAFBVV95cUxONVlTWms3S19mNHhFc0xpV25jWlN2TVhXVFptUi1tWVZLcHhUc2gxWmJkcTZ6RlA0VFpHY1A0OHdzd0U5blRYSDlWQkc0V01idnRsU2p4c3Z0MEk3M1NDNzdvUGtEem45WVJ5YWRlQlJ6VzFDbkk2d1pRTEJUd2NkYzJKalhPRWZPLXZwSkprYnRlQmxlR3laZ25kMW1tV1NM?oc=5",
+   "fuente": "Hoy Digital",
+   "fecha": "2026-03-08T08:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "7cq4h0",
+   "revisado": true,
+   "original": "https://hoy.com.do/vivir/carolina-mejia-recibe-maximo-galardon-rotary-rd-dia-mujer_1078849.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/03/08/69adfea433ff0.r_d.640-480-9375.jpeg",
+   "resumen": "Carolina Mejia afirmó que el futuro de República Dominicana dependerá del liderazgo de las mujeres"
+  },
+  {
+   "titulo": "Clubes Rotarios Bella Vista y Mirador promueven pensamiento crítico con conferencia de Iván Gatón",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFHTjV5UElxelNOakNLLXFaU3BwR1F2dEVoc0REOWhMXzJuVHdOTWE3Z01ES0FjMldTcWowR0tVSXE2X0RkaVdpT0lvU05rbVdLYm1Fa21YT2oxTFhyN1hrbGxscHBOWjRwRzFFQ3dlWS1ObEJfVTdseFhGNUd2NHQ4VEtvLTBLMXlRZzJtU0JfNXlnaFhmX2RaallCZzlMUkRMS0NkMHJUazNjTzhZNGhUM2R2dXBMQmVTVDdac2ZvSWNXVGc?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2026-03-05T08:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "dtn7o5",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/clubes-rotarios-bella-vista-y-mirador-promueven-pensamiento-critico-con-conferencia-de-ivan-gaton/"
+  },
+  {
+   "titulo": "Distrito 4060 de Rotary celebra el 121 aniversario de Rotary International",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSElBR003bk13RDRRUW1lTk9RRVByYjRESWozcmQwdGFIdTZJNllzTXN4RF9mRWRrWE8wQXFqRTh1Y2x0dW1lRlk5WUdNOFpGeUFWZlZzNjQ3SXhYeEVhX1ZhWlRxbURCMWJtZU9yWTJ5em9vZG5BXzhuZkVYYnlmb2t5aXg0Z2xhV3BJUnNsMXpuUmtPbGxnRzRrd0dteDh1THJaVGtGSmx1Q3g5a1NOTTB6V1HSAboBQVVfeXFMTnZNTUZReE5vWi1CTFZzZGh4XzVPMXBGMWs1VVFhZXBtTGpXeFB4ak9IVXY4VlVPVzB4V1Nscy1tRml5Z1pGUENSaWxIeFM5RE42WXNRcEtGdTUzWjNBeWZNdDl2S2s5U1RKaGNEcmJCY1BTVHRCTlliQl9lZXZGNnA0alYzY21ZYWlmMTBKcG5kZUcwZnBtem1vaGs4S0dqZ2dacmxMRHlRXzZtbVZ3a0pVMGV0ZnBDcEln?oc=5",
+   "fuente": "Diario Libre",
+   "fecha": "2026-03-03T08:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "8vy2ch",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2026/03/03/distrito-4060-de-rotary-celebra-su-121-aniversario/3455879",
+   "imagen": "https://resources.diariolibre.com/images/2026/03/03/distrito-4060-de-rotary-celebra-su-121-aniversario-6aa3db5e-focus-min0.05-0.29-1200-675_wam.jpg",
+   "resumen": "El encuentro fue una celebraci&oacute;n del legado de servicio de la organizaci&oacute;n en la Rep&uacute;blica Dominicana y el mundo"
+  },
+  {
+   "titulo": "Club Rotario Santiago Apóstol realiza charla vocacional en el Liceo Onésimo Jiménez",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNXJCVDlOcmkxVndMMzJhSUNZR1h1bXJXMmQtUzlUak1GN01LbXh0d21BMzBqMjI1YkRuYWotNTlyOU4xR20yRm9QSGFLcFRxVF9pc25wSEktTEp0M0dWelVyYV9uaXAxSDFpYllIcTdicjg0ckhNVDlDdVVCWTJVTXE3YUp4QzBidUR6TmpKUjJJQVYxUVdBZVl3SEZOcDR1eFNPX3dSemZWalo0WmUtQ1JHQQ?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2026-03-02T08:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1n3rj6p",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santiago-apostol-realiza-charla-vocacional-en-el-liceo-onesimo-jimenez/"
   }
  ]
 }

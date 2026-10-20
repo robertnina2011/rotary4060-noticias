@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T15:34:57.300Z",
+ "actualizado": "2026-10-20T15:39:48.348Z",
  "total": 75,
  "noticias": [
   {
@@ -8,7 +8,12 @@
    "fuente": "Momento Deportivo RD",
    "fecha": "2026-10-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "kny6eg",
+   "revisado": true,
+   "original": "https://momentodeportivord.com/licey-y-aguilas-el-sabado-a-beneficio-del-club-rotario-garabito/",
+   "imagen": "https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2026/10/Foto-Juan-Ramon-Reyes-e1791137754130.jpg?resize=480%2C487&ssl=1",
+   "resumen": "El club Ratario Garabito construye obras benéficas en sectores pobres con la recaudación de esos juegos."
   },
   {
    "titulo": "Sepultan a Alcibíades Lorenzo, servidor rotario",
@@ -16,7 +21,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2026-08-18T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "o1oly4",
+   "revisado": true,
+   "original": "https://hoy.com.do/el-pais/sepultan-alcibiades-lorenzo-servidor-rotario_1099176.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2026/08/17/6a83c5f07dad2.jpeg",
+   "resumen": "En el Club Rotario, Alcibíades Lorenzo gestionaba visado, hospitales y hospedaje a personas enfermas y de escasos recursos."
   },
   {
    "titulo": "Clubes Rotary y Rotaract imparten charla sobre lactancia materna en San Cristóbal",
@@ -24,7 +34,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-08-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "hsbq7d",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/clubes-rotary-y-rotaract-imparten-charla-sobre-lactancia-materna-en-san-cristobal/"
   },
   {
    "titulo": "Club Rotaract San Cristóbal anuncia inicio de la iniciativa a la Escuela con Rotaract",
@@ -32,7 +45,12 @@
    "fuente": "RC Noticias",
    "fecha": "2026-07-16T22:07:38.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "g4ybj7",
+   "revisado": true,
+   "original": "https://robertocavada.com/club-rotaract-san-cristobal-anuncia-inicio-de-la-iniciativa-a-la-escuela-con-rotaract/",
+   "imagen": "https://robertocavada.com/wp-content/uploads/2026/07/Club-Rotaract-San-Cristobal-anuncia-inicio-de-la-iniciativa-a-la-Escuela-con-Rotaract.webp",
+   "resumen": "Por: Francisca Frías San Cristóbal, R.D.- Con gran esmero, esperanza y un mensaje motivador el Club Rotaract San Cristóbal anunció ayer en sus redes sociales el incio de la iniciativa “A la e…"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista juramenta nueva directiva encabezada por Ana Divi Arbaje",
@@ -40,7 +58,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-07-09T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "3azjo7",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santo-domingo-bella-vista-juramenta-nueva-directiva-encabezada-por-ana-divi-arbaje/"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista presenta sus memorias",
@@ -48,7 +69,11 @@
    "fuente": "Listín Diario",
    "fecha": "2026-06-30T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1b63bku",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20260630/club-rotario-santo-domingo-bella-vista-presenta-memorias_911895.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2026/06/30/6a43e044ea3ac.jpeg"
   },
   {
    "titulo": "Rotary Club Santo Domingo Colonial celebra su 57 aniversario; juramenta nuevos socios",
@@ -56,7 +81,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-05-30T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "j5ecsv",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-club-santo-domingo-colonial-celebra-su-57-aniversario-juramenta-nuevos-socios/"
   },
   {
    "titulo": "Mujeres que transforman: Rotary homenajea a líderes en Santo Domingo",
@@ -64,7 +92,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2026-03-15T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "woml6d",
+   "revisado": true,
+   "original": "https://hoy.com.do/vivir/rostros/distrito-4060-rotary-reconoce-70-mujeres-lideres_1079715.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/03/15/69b6ae6fd0a38.r_d.376-293-0.jpeg",
+   "resumen": "El acto fue dedicado a la pasada presidenta Marilis Pérez de Díaz, reconocida por su trayectoria de servicio, su temple y su entrega a la causa rotaria."
   },
   {
    "titulo": "Carolina Mejía recibe máximo galardón de Rotary en RD por Día de la Mujer",
@@ -72,7 +105,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2026-03-08T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "7cq4h0",
+   "revisado": true,
+   "original": "https://hoy.com.do/vivir/carolina-mejia-recibe-maximo-galardon-rotary-rd-dia-mujer_1078849.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/files/fp/uploads/2026/03/08/69adfea433ff0.r_d.640-480-9375.jpeg",
+   "resumen": "Carolina Mejia afirmó que el futuro de República Dominicana dependerá del liderazgo de las mujeres"
   },
   {
    "titulo": "Clubes Rotarios Bella Vista y Mirador promueven pensamiento crítico con conferencia de Iván Gatón",
@@ -80,7 +118,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-03-05T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "dtn7o5",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/clubes-rotarios-bella-vista-y-mirador-promueven-pensamiento-critico-con-conferencia-de-ivan-gaton/"
   },
   {
    "titulo": "Distrito 4060 de Rotary celebra el 121 aniversario de Rotary International",
@@ -88,7 +129,12 @@
    "fuente": "Diario Libre",
    "fecha": "2026-03-03T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "8vy2ch",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2026/03/03/distrito-4060-de-rotary-celebra-su-121-aniversario/3455879",
+   "imagen": "https://resources.diariolibre.com/images/2026/03/03/distrito-4060-de-rotary-celebra-su-121-aniversario-6aa3db5e-focus-min0.05-0.29-1200-675_wam.jpg",
+   "resumen": "El encuentro fue una celebraci&oacute;n del legado de servicio de la organizaci&oacute;n en la Rep&uacute;blica Dominicana y el mundo"
   },
   {
    "titulo": "Club Rotario Santiago Apóstol realiza charla vocacional en el Liceo Onésimo Jiménez",
@@ -96,7 +142,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-03-02T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1n3rj6p",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santiago-apostol-realiza-charla-vocacional-en-el-liceo-onesimo-jimenez/"
   },
   {
    "titulo": "El Club Rotario de Barahona celebra su 81 aniversario en un ambiente de amor y amistad",
@@ -104,7 +153,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-02-16T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "923fqc",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/el-club-rotario-de-barahona-celebra-su-81-aniversario-en-un-ambiente-de-amor-y-amistad/"
   },
   {
    "titulo": "(VIDEO) Club Rotario SD Mirador celebra 51 años de servicio comunitario",
@@ -112,7 +164,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-01-22T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "6rpzfd",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/video-club-rotario-sd-mirador-celebra-51-anos-de-servicio-comunitario/"
   },
   {
    "titulo": "Rotary Regala Alegría lleva sonrisas y esperanza a 179 niños en Santo Domingo",
@@ -120,7 +175,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2026-01-17T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "oaevzn",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-regala-alegria-lleva-sonrisas-y-esperanza-a-179-ninos-en-santo-domingo/"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista: 57 años de servicio y esperanza",
@@ -128,7 +186,12 @@
    "fuente": "Listín Diario",
    "fecha": "2025-12-26T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "e0d166",
+   "revisado": true,
+   "original": "https://listindiario.com/la-vida/20251226/club-rotario-santo-domingo-bella-vista-57-anos-servicio-esperanza_887267.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2025/12/23/694ae76054b83.jpeg",
+   "resumen": "Con una trayectoria marcada por el compromiso social, la entidad reafirma su apuesta por proyectos transformadores como ´Hilos de Esperanza´, una iniciativa dedicada al empoderamiento femenino."
   },
   {
    "titulo": "Club Rotario realiza encuentro para sembrar esperanza",
@@ -136,7 +199,11 @@
    "fuente": "Listín Diario",
    "fecha": "2025-11-12T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1sfeerh",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20251112/club-rotario-realiza-encuentro-sembrar-esperanza_881806.html",
+   "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2025/11/11/69133ac56de52.r_d.1212-628-0.jpeg"
   },
   {
    "titulo": "Fortaleza de Santo Domingo se ilumina de rojo en apoyo a la campaña mundial “End Polio Now”",
@@ -144,7 +211,12 @@
    "fuente": "El Pregonero",
    "fecha": "2025-10-21T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "w5524c",
+   "revisado": true,
+   "original": "https://elpregonerord.com/fortaleza-de-santo-domingo-se-ilumina-de-rojo-en-apoyo-a-la-campana-mundial-end-polio-now/",
+   "imagen": "https://elpregonerord.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-21-at-08.56.52-1.jpeg",
+   "resumen": "“Sigamos vacunando. Sigamos sirviendo. Pongamos fin a la polio. Ahora y para siempre”."
   },
   {
    "titulo": "Rotary realiza seminario de imagen de capacitación a rotarios dominicanos",
@@ -152,7 +224,11 @@
    "fuente": "Listín Diario",
    "fecha": "2025-09-29T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "lo6v9b",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20250929/rotary-realiza-seminario-imagen-capacitacion-rotarios-dominicanos_876133.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2025/09/29/68da96008c7d4.jpeg"
   },
   {
    "titulo": "El Club Rotario presentará a la Orquesta Filarmónica Nacional en un evento único en Barahona",
@@ -160,7 +236,11 @@
    "fuente": "El Pregonero",
    "fecha": "2025-09-05T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1i32qdq",
+   "revisado": true,
+   "original": "https://elpregonerord.com/el-club-rotario-presentara-a-la-orquesta-filarmonica-nacional-en-un-evento-unico-en-barahona/",
+   "imagen": "https://elpregonerord.com/wp-content/uploads/2025/09/1c5b8674-0416-4145-b3f2-05ae64e929e2.jpeg"
   },
   {
    "titulo": "Rotary Club Santo Domingo Mirador juramenta nuevos socios",
@@ -168,7 +248,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2025-08-29T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1eo7ipl",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-club-santo-domingo-mirador-juramenta-nuevos-socios/"
   },
   {
    "titulo": "El Club Rotario Santo Domingo Bella Vista juramenta nueva directiva para el período 2025-2026",
@@ -176,7 +259,12 @@
    "fuente": "Diario Libre",
    "fecha": "2025-07-13T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1tockn0",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2025/07/13/club-rotario-santo-domingo-bella-vista-juramenta-nueva-directiva/3181364",
+   "imagen": "https://resources.diariolibre.com/images/2025/07/13/whatsapp-image-2025-07-13-at-115229-am-3ec78ad0-focus-min0.49-0.46-608-342_wam.jpg",
+   "resumen": "Rita Milosi Soriano asume el cargo de presidenta bajo el lema \"Unidos para hacer el bien\""
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista juramenta su nueva directiva",
@@ -184,7 +272,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2025-07-13T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "r1fi4h",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santo-domingo-bella-vista-juramenta-su-nueva-directiva/"
   },
   {
    "titulo": "Olga Virginia Acosta es la nueva Gobernadora del Distrito 4060 de Rotary Internacional",
@@ -192,7 +283,12 @@
    "fuente": "proceso.com.do",
    "fecha": "2025-07-11T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1hb2c9y",
+   "revisado": true,
+   "original": "https://proceso.com.do/2025/07/11/olga-virginia-acosta-es-la-nueva-gobernadora-del-distrito-4060-de-rotary-internacional/",
+   "imagen": "https://proceso.com.do/wp-content/uploads/2025/07/OLGA-V-ACOSTA-SENA-scaled.jpg",
+   "resumen": "República Dominicana.-En una emotiva y concurrida ceremonia, Olga Virginia Acosta Sena fue juramentada como gobernadora del Distrito 4060 de Rotary Internacional en la República Dominicana para el período 2025-2026, bajo el lema “Unidos para hacer el bien”. Desde su ingreso al Club Rotario Santo Domingo Colonial en 201"
   },
   {
    "titulo": "Rotary reconoce a Laura Merán con el título Dama de la Comunidad",
@@ -200,7 +296,11 @@
    "fuente": "Listín Diario",
    "fecha": "2025-03-12T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1p3rv92",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20250312/rotary-reconoce-laura-meran-titulo-dama-comunidad_849091.html",
+   "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2025/03/12/67d1841eafb36.r_d.439-269-0.jpeg"
   },
   {
    "titulo": "La tarde de té del Club Rotario Santo Domingo Bella Vista",
@@ -208,7 +308,11 @@
    "fuente": "Listín Diario",
    "fecha": "2024-11-23T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1yksm1a",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20241123/tarde-te-club-rotario-santo-domingo-bella-vista_834892.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2024/11/23/674205358382a.jpeg"
   },
   {
    "titulo": "Gobernadora del Club Rotario de República Dominicana realiza visita oficial a Dajabón",
@@ -216,7 +320,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2024-11-09T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1conmvo",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/gobernadora-del-club-rotario-de-republica-dominicana-realiza-visita-oficial-a-dajabon/"
   },
   {
    "titulo": "Águilas blanquean 12×0 a Granjeros de Moca en juego benéfico Club Rotario Gurabito",
@@ -224,7 +331,12 @@
    "fuente": "Águilas Cibaeñas Baseball Club",
    "fecha": "2024-10-13T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "3fchyh",
+   "revisado": true,
+   "original": "https://aguilas.com.do/aguilas-blanquean-12x0-a-granjeros-de-moca-en-juego-benefico-club-rotario-gurabito/",
+   "imagen": "https://aguilas.com.do/wp-content/uploads/2024/10/Lagares-vs-Granjeros-scaled.jpeg",
+   "resumen": "SANTIAGO .- Las Águilas Cibaeñas blanquearon 12 carreras por 0 a los Granjeros de Moca , al compás de 15 indiscutibles en el tradicional partido benéfico del Club Rotario Santiago Gurabito, el último encuentro de pretemporada del equipo aguilucho celebrado ayer domingo en el Estadio Cibao, el cual fue dedicado a Winsto"
   },
   {
    "titulo": "Presentan nueva directiva Club Rotary Santo Domingo Quisqueya",
@@ -232,7 +344,10 @@
    "fuente": "AlMomento.net",
    "fecha": "2024-09-16T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "ocoigx",
+   "revisado": true,
+   "original": "https://almomento.net/presentan-nueva-directiva-club-rotary-santo-domingo-quisqueya/"
   },
   {
    "titulo": "Presentan nueva directiva del Club Rotario Santo Domingo Quisqueya",
@@ -240,7 +355,12 @@
    "fuente": "vigilante informativo",
    "fecha": "2024-09-12T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1jsms6r",
+   "revisado": true,
+   "original": "https://vigilanteinformativo.com/presentan-nueva-directiva-del-club-rotario-santo-domingo-quisqueya/",
+   "imagen": "https://vigilanteinformativo.com/subidas/2024/09/rotario.jpg",
+   "resumen": "Vigilanteinformativo.com es su sitio web de noticias, entretenimiento y orientación. Le proporcionamos las últimas noticias."
   },
   {
    "titulo": "Juramentan nueva directiva de Rotary Santo Domingo Mirador",
@@ -248,7 +368,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2024-07-26T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1eko2c0",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/juramentan-nueva-directiva-de-rotary-santo-domingo-mirador-3/"
   },
   {
    "titulo": "Pedro Vargas al frente de la nueva directiva de Rotary Santo Domingo",
@@ -256,7 +379,11 @@
    "fuente": "Listín Diario",
    "fecha": "2024-07-17T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1c7v9p2",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20240717/pedro-vargas-frente-nueva-directiva-rotary-santo-domingo_817432.html",
+   "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2024/07/16/669722de46986.r_d.426-316-0.jpeg"
   },
   {
    "titulo": "Juramentan nueva directiva del Rotary Santo Domingo Mirador",
@@ -264,7 +391,10 @@
    "fuente": "AlMomento.net",
    "fecha": "2024-07-12T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1liy3cm",
+   "revisado": true,
+   "original": "https://almomento.net/juramentan-nueva-directiva-del-rotary-santo-domingo-mirador/"
   },
   {
    "titulo": "Celebran cuarta edición del Rotary Day República Dominicana",
@@ -272,7 +402,12 @@
    "fuente": "Diario Libre",
    "fecha": "2024-07-11T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "18vsg0o",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2024/07/11/celebran-cuarta-edicion-del-rotary-day-del-rotary-club-rd/2783995",
+   "imagen": "https://resources.diariolibre.com/images/2024/07/11/celebran-cuarta-edicion-del-rotary-day-del-rotary-club-rd-focus-0-0-608-342_wam.jpg",
+   "resumen": "Los participantes disfrutaron de un día repleto de adrenalina y el rugir característico de estos motores"
   },
   {
    "titulo": "Club Rotario de Cotuí reconoce al presidente del senado",
@@ -280,7 +415,12 @@
    "fuente": "Listín Diario",
    "fecha": "2024-06-05T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1xejpwd",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20240605/club-rotario-cotui-reconoce-presidente-senado_811457.html",
+   "imagen": "https://listindiario.com/files/main_image/files/fp/uploads/2024/06/05/66604d53ad11c.r_d.1498-776-0.jpeg",
+   "resumen": "Ricardo de los Santos se comprometió a seguir impulsando los proyectos de leyes que tengan el objetivo de impulsar el desarrollo económico y cultural de su provincia"
   },
   {
    "titulo": "Presidente del Senado, Ricardo de los Santos recibe reconocimiento del Club Rotario de Cotuí",
@@ -288,7 +428,12 @@
    "fuente": "Ciudadoriental.com",
    "fecha": "2024-06-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "cuahw7",
+   "revisado": true,
+   "original": "https://ciudadoriental.com/presidente-del-senado-ricardo-de-los-santos-recibe-reconocimiento-del-club-rotario-de-cotui/",
+   "imagen": "https://ciudadoriental.com/wp-content/uploads/2024/06/cotui.jpg",
+   "resumen": "El Club Rotario Cotuí Incorporado de este municipio, reconoció anoche al presidente del Senado, Ricardo de los Santos, por su..."
   },
   {
    "titulo": "Presidente del Senado recibe reconocimiento del Club Rotario de Cotuí",
@@ -296,7 +441,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2024-06-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1rq69d1",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/presidente-del-senado-recibe-reconocimiento-del-club-rotario-de-cotui/"
   },
   {
    "titulo": "Rotary reconoce 24 damas destacadas en la sociedad dominicana",
@@ -304,7 +452,12 @@
    "fuente": "Diario Libre",
    "fecha": "2024-03-30T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "pacwni",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2024/03/30/rotary-entrega-reconocimientos-a-24-damas-destacadas/2658571",
+   "imagen": "https://resources.diariolibre.com/images/2024/03/30/ysabel-reyes-marilis-perez-angela-tejada-de-rodriguez-ruben-goico-y-olga-acosta-focus-0-0-608-342_wam.jpg",
+   "resumen": "Estas profesionales fueron reconocidas por su labor a favor de elevar la participación equitativa de la mujer"
   },
   {
    "titulo": "Once años de servicio del Club Rotaract Pimentel",
@@ -312,7 +465,12 @@
    "fuente": "Periódico EL JAYA",
    "fecha": "2024-03-07T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1iil8fv",
+   "revisado": true,
+   "original": "https://www.eljaya.com/189476/11-anos-de-servicio-del-club-rotaract-pimentel/",
+   "imagen": "https://i0.wp.com/www.eljaya.com/wp-content/uploads/2024/03/rotarac.jpg?fit=1080%2C493&ssl=1",
+   "resumen": "El próximo domingo 17 de marzo, el Club Rotaract Pimentel celebra su 11º aniversario. Esta red de voluntariado se dedica"
   },
   {
    "titulo": "Juramentan nueva directiva del Club Rotario Rancho Arriba",
@@ -320,7 +478,12 @@
    "fuente": "Diario Libre",
    "fecha": "2023-07-23T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1fggqw9",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/actualidad/nacional/2023/07/23/juramentan-directiva-del-club-rotario-rancho-arriba/2411521",
+   "imagen": "https://resources.diariolibre.com/images/2023/07/23/whatsapp-image-2023-07-23-at-140541-f070ae6f-focus-min0.04-0.23-608-342_wam.jpg",
+   "resumen": "La nueva gestión será encabezada por Iván Mancebo"
   },
   {
    "titulo": "La nueva directiva del Club Rotary Santo Domingo Arroyo Hondo",
@@ -328,7 +491,11 @@
    "fuente": "Listín Diario",
    "fecha": "2023-07-19T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "3d94sg",
+   "revisado": true,
+   "original": "https://listindiario.com/las-sociales/20230719/nueva-directiva-club-rotary-santo-domingo-arroyo-hondo_764172.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2023/07/19/64b805dced238.jpeg"
   },
   {
    "titulo": "Milqueya Portes recibe reconocimiento Club Rotario Santo Domingo Bella Vista",
@@ -336,7 +503,12 @@
    "fuente": "turepublica.com",
    "fecha": "2022-07-13T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1ca45lc",
+   "revisado": true,
+   "original": "https://turepublica.com/2022/07/milqueya-portes-recibe-reconocimiento-club-rotario-santo-domingo-bella-vista/",
+   "imagen": "https://turepublica.com/wp-content/uploads/2022/07/IMG-20220712-WA0014.jpg",
+   "resumen": "El Club Rotario Santo Domingo Bella Vista del Distrito 4060 reconoció a la Dra. Milqueya Portes. Como ciudadana ejemplar y"
   },
   {
    "titulo": "Nuris Henríquez de Arroyo asume presidencia del Club Rotario Moca",
@@ -344,7 +516,10 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2022-07-12T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "wz2j3p",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/nuris-henriquez-de-arroyo-asume-presidencia-del-club-rotario-moca/"
   },
   {
    "titulo": "Club Rotario Maguana celebra su 44 aniversario",
@@ -352,7 +527,12 @@
    "fuente": "Diario Libre",
    "fecha": "2022-06-03T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "tbhv52",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/sociales/2022/06/03/44-anos-club-rotario-maguana/1867648",
+   "imagen": "https://resources.diariolibre.com/images/2022/06/03/foto-9-6c8e73d5-focus-min0.05-0.24-608-342_wam.jpg",
+   "resumen": "Aprovechó para reconocer a varios de sus socios a quienes otorgó la categoría de miembros honorarios."
   },
   {
    "titulo": "Rotary Colonial dona equipos para Sala de Lactancia Materna",
@@ -362,7 +542,8 @@
    "resumen": "Rotary Colonial inauguró nueva Sala Lactancia Materna junto al Gobernador del Distrito 4060, Melvin Brioso, a fin de que las usuarias de dicho centro de salud puedan disponer de un espacio confortable y privado para lact",
    "imagen": "https://rotary4060.org/wp-content/uploads/2022/05/PXL_20220506_154217869.png",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1w0xein"
   },
   {
    "titulo": "¿El Club Rotario está donando insulina y sillas de ruedas a través de WhatsApp?",
@@ -370,7 +551,12 @@
    "fuente": "El Diario Venezuela",
    "fecha": "2022-01-26T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "abk0x4",
+   "revisado": true,
+   "original": "https://eldiario.com/2022/01/26/club-rotario-donando-insulina-sillas-de-ruedas-whatsapp/",
+   "imagen": "https://eldiario.com/wp-content/uploads/2022/01/falsocadena.jpg",
+   "resumen": "El Diario Venezuela - elDiario.com - ¿El Club Rotario está donando insulina y sillas de ruedas a través de WhatsApp?"
   },
   {
    "titulo": "Rotary conmemora Día Mundial de la Lucha para la Erradicación de la Poliomielitis",
@@ -378,7 +564,12 @@
    "fuente": "Diario Libre",
    "fecha": "2021-10-24T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "10f5l6",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/actualidad/salud/rotary-conmemora-dia-mundial-de-la-lucha-para-la-erradicacion-de-la-poliomielitis-FN29533996",
+   "imagen": "https://resources.diariolibre.com/images/binrepository/pbz4641_17488152_20211024175625-focus-0-0-608-342_wam.jpg",
+   "resumen": "Resaltan que desde hace ocho meses no se detecta un caso en el mundo"
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista pre inaugura taller de costura",
@@ -386,7 +577,12 @@
    "fuente": "Periódico elDinero",
    "fecha": "2020-07-21T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1ijo70t",
+   "revisado": true,
+   "original": "https://eldinero.com.do/113369/club-rotario-santo-domingo-bella-vista-pre-inaugura-taller-de-costura/",
+   "imagen": "https://eldinero.com.do/wp-content/uploads/3.-Maria-Cristina-de-Farias-Veronica-Sencion-Nereyda-Acosta-Delores-Sanchez-e-Hilda-Garcia..jpg",
+   "resumen": "El Club Rotario Santo Domingo Bella Vista, que preside Verónica Sención, entregó a la Fundación Avanzare un taller de costura con el que se beneficiará a"
   },
   {
    "titulo": "Club Rotario dona insumos médicos al Hospital San Juan de Dios de Estelí",
@@ -394,7 +590,12 @@
    "fuente": "Radio ABC Stereo",
    "fecha": "2020-04-14T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1kzdbed",
+   "revisado": true,
+   "original": "https://radioabcstereo.com/nota/17373_club-rotario-dona-insumos-medicos-al-hospital-san-juan-de-dios-de-esteli",
+   "imagen": "https://radioabcstereo.com/storage/img/img-noticias/04-2020/1586963280.jpg",
+   "resumen": "Los médicos son los héroes. Porque el personal de Salud es clave para contrarrestar la pandemia, el Club Rotario de Estelí hizo una donación para los médicos del Hospital San Juan de Dios, que incluye: cubrebotas, mascarillas, gorros quirúrgicos y cajas acrílicas."
   },
   {
    "titulo": "Club Rotario Santo Domingo Colonial realiza donación a Fundación Dominicana de Ciegos",
@@ -402,7 +603,12 @@
    "fuente": "Diario de Salud",
    "fecha": "2020-02-12T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1efo489",
+   "revisado": true,
+   "original": "https://www.diariodesalud.com.do/texto-diario/mostrar/1782115/club-rotario-santo-domingo-colonial-realiza-donacion-fundacion-dominicana-ciegos",
+   "imagen": "https://www.diariodesalud.com.do/images/showid/3018245",
+   "resumen": "SANTO DOMINGO, RD/ DIARIO DE SALUD.- Los integrantes del Club Rotario Santo Domingo Colonial realizaron entrega a la Fundación Dominicana de Ciegos Inc. de la vigésima segunda edición d ..."
   },
   {
    "titulo": "Club Rotario Santo Domingo celebra sesión y reconoce a socias",
@@ -410,7 +616,12 @@
    "fuente": "7dias.com.do",
    "fecha": "2019-08-26T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1nxgw0s",
+   "revisado": true,
+   "original": "https://7dias.com.do/2019/08/26/club-rotario-santo-domingo-celebra-sesion-y-reconoce-a-socias/",
+   "imagen": "https://7dias.com.do/wp-content/uploads/2019/08/df5286ee-dsc_9260-zoraima-cuello-veronica-sencion-jatnna-tavares-manuel-gomez-achecar-y-aspasia-de-gomez..jpg",
+   "resumen": "República Dominicana.- Fue celebrada la 8va. Sesión del Club Rotario Santo Domingo Bella Vista, con la visita oficial del señor Manuel Gómez Achecar Gobernador Rotario del Distrito 4060 y su distinguida esposa Aspasia de Gómez. El acto celebrado en el Salón Montás Guerrero del Club Deportivo Naco, inició con las&hellip"
   },
   {
    "titulo": "Club Rotario Barahona reconoce director CONAVIHSIDA Víctor Terrero",
@@ -418,7 +629,12 @@
    "fuente": "vigilante informativo",
    "fecha": "2019-07-10T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1lfi27a",
+   "revisado": true,
+   "original": "https://vigilanteinformativo.com/https-vigilanteinformativo-com-club-rotario-barahona-reconoce-director-conavihsida-victor-terrero/",
+   "imagen": "https://vigilanteinformativo.com/subidas/2019/07/victor-_terrero.jpg",
+   "resumen": "Vigilanteinformativo.com es su sitio web de noticias, entretenimiento y orientación. Le proporcionamos las últimas noticias."
   },
   {
    "titulo": "Rotary Club de Santo Domingo celebra 75 aniversario",
@@ -426,7 +642,10 @@
    "fuente": "AlMomento.net",
    "fecha": "2018-09-29T08:39:32.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "7q60u",
+   "revisado": true,
+   "original": "https://almomento.net/rotary-club-de-santo-domingo-celebra-75-aniversario/"
   },
   {
    "titulo": "Rotary Santiago se reúne con el gobernador distrital",
@@ -434,7 +653,12 @@
    "fuente": "Listín Diario",
    "fecha": "2018-09-14T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "ob3fe9",
+   "revisado": true,
+   "original": "https://listindiario.com/elnorte/2018/09/14/533094/rotary-santiago-se-reune-con-el-gobernador-distrital.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2018/09/14/6433c1001953e.png",
+   "resumen": "El club Rotary de Santiago recibi&oacute; la visita del gobernador del distrito 4060, Roberto Almonte, con el fin de conversar con sus miemb"
   },
   {
    "titulo": "Emma Valois Vidal presidirá el Club Rotario Santo Domingo Bella Vista",
@@ -442,7 +666,12 @@
    "fuente": "elcaribe.com.do",
    "fecha": "2018-07-27T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1tuf9cc",
+   "revisado": true,
+   "original": "https://www.elcaribe.com.do/panorama/emma-valois-vidal-presidira-el-club-rotario-santo-domingo-bella-vista/",
+   "imagen": "https://www.elcaribe.com.do/wp-content/uploads/2018/07/dc5172db-juramento.jpg",
+   "resumen": "Todas las noticias del acontecer nacional de la República Dominicana y el resto del mundo."
   },
   {
    "titulo": "El Club San Juan de la Maguana realiza donaciones de sillas de ruedas",
@@ -452,7 +681,8 @@
    "resumen": "El Club San Juan de la Maguana Inc. ha estado entregando entre Enero, Febrero y Marzo 2018, unas 125 sillas de Ruedas de diferentes tamaños, donadas por la organización CABALLEROS DE COLON de CANADA.",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/IMG-20180214-WA0032.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1mm7rw1"
   },
   {
    "titulo": "Entrega de sillas de ruedas a clubes",
@@ -462,7 +692,8 @@
    "resumen": "El club Rotario San Juan de la Maguana, de la donación que recibió de 125 sillas de ruedas por parte de los caballeros de Colon de Canadá, entrego una partida a cada uno de los clubes de la Zona ( Club Anacaona, Club Mag",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/IMG-20180111-WA0029.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "16ezeuc"
   },
   {
    "titulo": "Inauguración de la sala “Amiga de la Familia del Lactante”, San Juan de la Maguana",
@@ -472,7 +703,8 @@
    "resumen": "El Club Rotario San Juan de la Maguana y el Distrito 4060, apoyaron con todo el equipamento para dejar inaugurado en 8 de Julio 2018, la sala “Amiga de la Familia del Lactante” ubicada en el Centro Integral para el disca",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/IMG-20180608-WA0084.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1ycclf6"
   },
   {
    "titulo": "Clubes en Acción: Bella Vista, Moca, Moca 2 de Mayo, Salcedo, Tenares y San José de Las Matas",
@@ -482,7 +714,8 @@
    "resumen": "Tomar acción, con la mística de Rotary de servir a los más vulnerables, los rotarios del distrito 4060, unidos en compañerismo y amistad, están prestos a ir siempre donde hay una necesidad. &nbsp;",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/Caminata-por-la-ecologia-Rotary-Salcedo.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "15cnoap"
   },
   {
    "titulo": "Seminario Distrital de La Fundación Rotaria",
@@ -492,7 +725,8 @@
    "resumen": "Para el fin de semana del 30 de septiembre y 1ero de Octubre se celebró en nuestro distrito el Seminario Integral Distrital, el cual abarca un seminario de Imagen Pública, de Membresía y de La Fundacion Rotaria. El 1ero ",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/20171001_101139.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1lwik1n"
   },
   {
    "titulo": "Clubes en Acción: Bella Vista, Cotui, Dajabón, Azua, Higüey, Macorix Higuamo, Moca, San Cristóbal y Sto Dgo. Colonial",
@@ -502,7 +736,8 @@
    "resumen": "Clubes en acción: Mejorando Vidas. Las acciones de impacto son aquellos que cambian vidas, y también los que ayudan a mejorar la misma, una silla de ruedas para quien no puede caminar es tan vital como dar de comer a qui",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/Rotary-Macorix-Higuamo-lleva-donación-en-Ramón-Santana-a-desamparados-por-el-Huracán-María..jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "m3kt7d"
   },
   {
    "titulo": "Actividades de los clubes Interact Baní, Sánchez, Santiago Monumental y Cayetano Germosen",
@@ -512,7 +747,8 @@
    "resumen": "Interact Baní realiza campaña de prevención de salud.Interact Sánchez, imparte charla sobre higiéne bucalInteract Santiago Monumental realiza jornada recreativa a niños, llevando alegria y amor a los mismos.Interact y Ro",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/Interact-y-Rotaract-Cayetano-Germosén-realiza-jornada-de-concientización-sobre-la-Polio.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "11o5ols"
   },
   {
    "titulo": "Actividades del Comité de Parejas",
@@ -522,7 +758,8 @@
    "resumen": "Rol del Comité de parejas. Tradicionalmente en nuestro país, el comité de Parejas, (antes comité de damas rotarianas, y comité de cónyuges) ha jugado un papel preponderante en el fortalecimiento de los clubes. Es por eso",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/Tarde-con-aroma-de-mujer-y-caféComité-de-Parejas-Rotary-Moca-y-Rotary-Moca-2-de-Mayo.jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "xgvozr"
   },
   {
    "titulo": "Clubes en Acción: Baní, Dajabón, Boca Ferrea, Cayetano Germosen, Cotui, Nagua, Hiüey y San José de Las Matas",
@@ -532,7 +769,8 @@
    "resumen": "Aniversario Rotary BaníBoca FerreaCelebración semana aniversario Rotary Cayetano GermosénCena benefica Rotary CotuiClub Nagua y comite de parejas, dia de accion de graciasclubComite de conyugues Rotary.. visita comparte ",
    "imagen": "https://rotary4060.org/wp-content/uploads/2018/06/Comite-de-parejas-de-Rotary-Bella-Vista-en-charla-sobre-lavado-correcto-de-las-manos..jpg",
    "tipo": "distrito",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "2b0p0i"
   },
   {
    "titulo": "Rotary International realizará encuentro internacional en Punta Cana",
@@ -540,7 +778,12 @@
    "fuente": "El Nuevo Diario",
    "fecha": "2018-05-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:34:57.278Z"
+   "visto": "2026-10-20T15:36:43.393Z",
+   "id": "37co9f",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-international-realizara-encuentro-internacional-en-punta-cana/",
+   "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2018/05/rotary-1.jpg?resize=400%2C400&quality=100&ssl=1",
+   "resumen": "“El evento, el primero en que se lleva a cabo, se realizará del 9 al 11 de mayo en Punta Cana” EL NUEVO DIARIO, SANTO DOMINGO.- La organización mundial Rotary International realizará el Encuentro de Líderes 2018, en esta ocasión, con la participación de 16 países y con asiento en el Centro de Convenciones del [&hellip;"
   },
   {
    "titulo": "Dr. Alfonso Reyes: connotado médico—cardiólogo y rotario",
@@ -548,7 +791,11 @@
    "fuente": "Acento",
    "fecha": "2017-11-22T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1udg9vj",
+   "revisado": true,
+   "original": "https://acento.com.do/opinion/dr-alfonso-reyes-connotado-medico-cardiologo-rotario-8509034.html",
+   "resumen": "Dr. Alfonso Reyes: connotado médico—cardiólogo y rotario"
   },
   {
    "titulo": "Club Rotario Santo Domingo ofrece charla",
@@ -556,7 +803,12 @@
    "fuente": "elcaribe.com.do",
    "fecha": "2017-11-10T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "161ahy2",
+   "revisado": true,
+   "original": "https://www.elcaribe.com.do/gente/sociales/club-rotario-santo-domingo-ofrece-charla/",
+   "imagen": "https://www.elcaribe.com.do/wp-content/uploads/2017/11/d916d71b-charla-duarte-1.jpg",
+   "resumen": "Todas las noticias del acontecer nacional de la República Dominicana y el resto del mundo."
   },
   {
    "titulo": "Rotary tiene un nuevo gobernador",
@@ -564,7 +816,12 @@
    "fuente": "Listín Diario",
    "fecha": "2017-01-31T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1e384e0",
+   "revisado": true,
+   "original": "https://listindiario.com/la-republica/2017/01/31/452407/rotary-tiene-un-nuevo-gobernador.html",
+   "imagen": "https://listindiario.com/files/main_image/uploads/2017/01/31/642f8e196dd36.jpeg",
+   "resumen": "Rotary Internacional present&oacute; ayer el nuevo gobernador para la Rep&uacute;blica Dominicana, Pedro Vargas, quien afirm&oacute; que con"
   },
   {
    "titulo": "El Rotary Club Santo Domingo Mirador elige nueva directiva",
@@ -572,7 +829,12 @@
    "fuente": "Acento",
    "fecha": "2015-07-16T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1kpdl3p",
+   "revisado": true,
+   "original": "https://acento.com.do/sociales/el-rotary-club-santo-domingo-mirador-elige-nueva-directiva-8267377.html",
+   "imagen": "https://media.acento.com.do/media/storage01/uploads/10001437069890jpg.jpg",
+   "resumen": "El Rotary Club Santo Domingo Mirador elige nueva directiva"
   },
   {
    "titulo": "Rotary designa a Milqueya A. Portes",
@@ -580,7 +842,12 @@
    "fuente": "Diario Libre",
    "fecha": "2015-04-06T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "uln9cf",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/revista/rotary-designa-a-milqueya-a-portes-ERDL1086211",
+   "imagen": "https://resources.diariolibre.com/images/imagenes/2015/06/976451-focus-0-0-608-342_wam.jpg",
+   "resumen": "SD. Por primera vez una dama rotaria dominicana fue designada representante del presidente mundial de Rotary International. Esa distinción recayó en M..."
   },
   {
    "titulo": "Club Rotario Santo Domingo Colonial celebra Cata de Vinos",
@@ -588,7 +855,12 @@
    "fuente": "Acento",
    "fecha": "2014-12-03T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "bs0lv7",
+   "revisado": true,
+   "original": "https://acento.com.do/sociales/club-rotario-santo-domingo-colonial-celebra-cata-de-vinos-8200871.html",
+   "imagen": "https://media.acento.com.do/media/storage01/uploads/10001417562749jpg.jpg",
+   "resumen": "Club Rotario Santo Domingo Colonial celebra Cata de Vinos"
   },
   {
    "titulo": "Historia de Rotary Club Dominicano",
@@ -596,7 +868,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2014-03-22T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1l7lav3",
+   "revisado": true,
+   "original": "https://hoy.com.do/suplementos/areito/historia-de-rotary-club-dominicano_520678.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/11/03/6908c3b2d01b1.jpeg",
+   "resumen": "El viernes 28 de febrero, en una buena práctica social de Rotary, “rotamos en el vecindario” y esa tarde nos encontramos en casa del ingenie"
   },
   {
    "titulo": "Los rotarios",
@@ -604,7 +881,12 @@
    "fuente": "Diario Libre",
    "fecha": "2012-06-04T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1jykw7g",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/opinion/los-rotarios-OIDL338767",
+   "imagen": "https://resources.diariolibre.com/images/sitio.png",
+   "resumen": "Los clubes rotario del distrito 4060, que corresponde a la República Dominicana, finalizaron ayer una exitosa convención, la más concurrida de las más..."
   },
   {
    "titulo": "Rotary reúne a becarios",
@@ -612,7 +894,12 @@
    "fuente": "Diario Libre",
    "fecha": "2008-08-21T07:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "11iinc",
+   "revisado": true,
+   "original": "https://www.diariolibre.com/actualidad/rotary-rene-a-becarios-GVDL29877",
+   "imagen": "https://resources.diariolibre.com/images/imagenes/2008/21/22161-focus-0-0-608-342.jpg",
+   "resumen": "SD. Los 64 clubes rotarios del país celebran hoy la primera cena-encuentro con los más de 200 exbecarios que han sido beneficiados a nivel nacional a ..."
   },
   {
    "titulo": "Rotary Club, sesenta años después",
@@ -620,7 +907,12 @@
    "fuente": "Hoy Digital",
    "fecha": "2005-02-25T08:00:00.000Z",
    "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z"
+   "visto": "2026-10-20T15:30:46.549Z",
+   "id": "1vdoozt",
+   "revisado": true,
+   "original": "https://hoy.com.do/el-pais/rotary-club-sesenta-anos-despues_89729.html",
+   "imagen": "https://imagenes.hoy.com.do/files/og_thumbnail/uploads/2025/10/29/6902a5df0eab1.jpeg",
+   "resumen": "POR GRACIELA AZCÁRATE Hace aproximadamente un año, en el mes de mayo, los distintos clubes Rotary del país celebraron un Congreso en Puerto"
   }
  ]
 }
