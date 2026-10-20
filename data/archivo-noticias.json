@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-20T15:51:18.435Z",
+ "actualizado": "2026-10-20T15:56:05.921Z",
  "total": 75,
  "noticias": [
   {
@@ -54,7 +54,16 @@
    "id": "hsbq7d",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/clubes-rotary-y-rotaract-imparten-charla-sobre-lactancia-materna-en-san-cristobal/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/08/Clubes-Rotary-y-Rotaract-imparten-charla-sobre-lactancia-materna-en-San-Cristobal-2-1200x1200.jpeg",
+   "resumen": "EL NUEVO DIARIO, SAN CRISTÓBAL.- Los clubes Rotary y Rotaract de San Cristóbal realizaron este martes una charla educativa sobre lactancia materna dirigida a madres del Hospital Regional Juan Pablo Pina, como parte de las actividades conmemorativas de la Semana Mundial de la Lactancia Materna. La jornada, organizada po",
+   "extracto": [
+    "EL NUEVO DIARIO, SAN CRISTÓBAL.- Los clubes Rotary y Rotaract de San Cristóbal realizaron este martes una charla educativa sobre lactancia materna dirigida a madres del Hospital Regional Juan Pablo Pina, como parte de las actividades conmemorativas de la Semana Mundial de la Lactancia Materna.",
+    "La jornada, organizada por ambas entidades en coordinación con el centro de salud, tuvo como objetivo fortalecer los conocimientos de las participantes sobre los beneficios de la lactancia materna para la salud de las madres y los recién nacidos, según detalla un comunicado de prensa.",
+    "La capacitación estuvo a cargo de la doctora Rafaela Pérez, especialista en Pediatría y Neonatología y presidenta del Comité de Salud del Rotary Club San Cristóbal, junto a la psicóloga y asesora de lactancia materna Massiel Familia, presidenta del Rotaract Club San Cristóbal."
+   ],
+   "foto": "img/hsbq7d.webp",
+   "intentos": 1
   },
   {
    "titulo": "Club Rotaract San Cristóbal anuncia inicio de la iniciativa a la Escuela con Rotaract",
@@ -86,7 +95,16 @@
    "id": "3azjo7",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/club-rotario-santo-domingo-bella-vista-juramenta-nueva-directiva-encabezada-por-ana-divi-arbaje/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-09-at-4.38.05-PM-1200x1066.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO.- El Club Rotario Santo Domingo Bella Vista juramentó a su nueva directiva, encabezada por Ana Divi Arbaje, durante un acto que contó con la participación de más de 80 rotarios e invitados especiales. La juramentación estuvo a cargo del gobernador del Distrito 4060 de Rotary, Juan Osvaldo",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO.- El Club Rotario Santo Domingo Bella Vista juramentó a su nueva directiva, encabezada por Ana Divi Arbaje, durante un acto que contó con la participación de más de 80 rotarios e invitados especiales.",
+    "La juramentación estuvo a cargo del gobernador del Distrito 4060 de Rotary, Juan Osvaldo Holguín, quien destacó el entusiasmo y compromiso de la nueva gestión y auguró éxitos a la directiva, según detalla una nota de prensa.",
+    "Junto a Arbaje también fueron juramentados los integrantes de la Junta Directiva, conformada por Marta Oliveras, Cirilo Fernández, Mikhael Sido, Amarilys Durán, Rosa Yunes, Hilda García, Rosa Díaz, Juary Francisco, Olga de los Santos, Miguelina Acosta, Mildred Canahuate, Blasina de los Santos, Lenin Francisco, Sarah Castillo y Manuel Pujols."
+   ],
+   "foto": "img/3azjo7.webp",
+   "intentos": 1
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista presenta sus memorias",
@@ -118,7 +136,16 @@
    "id": "j5ecsv",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/rotary-club-santo-domingo-colonial-celebra-su-57-aniversario-juramenta-nuevos-socios/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/Rotary-Club-Santo-Domingo-Colonial-celebra-su-57-aniversario-juramenta-nuevos-socios--1200x1040.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO – El Rotary Club Santo Domingo Colonial celebró su 57.º aniversario, conmemoró el Día de las Madres y juramentó nuevos socios durante una sesión especial este jueves. La sesión estuvo presidida por el Virgilio A. Pérez Fernández, presidente del Club, quien destacó la trayectoria histórica",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO – El Rotary Club Santo Domingo Colonial celebró su 57.º aniversario, conmemoró el Día de las Madres y juramentó nuevos socios durante una sesión especial este jueves.",
+    "La sesión estuvo presidida por el Virgilio A. Pérez Fernández, presidente del Club, quien destacó la trayectoria histórica de servicio, amistad y compromiso comunitario que ha caracterizado al Rotary Club Santo Domingo Colonial durante más de cinco décadas de existencia.",
+    "El encuentro contó con la presencia de la gobernadora del Distrito Rotario 4060, Olga Virginia Sena Acosta; del gobernador electo 2026-2027, Osvaldo Holguín; así como de los pasados gobernadores; Melvin Brioso e Isabel Reyes Saint Hilaire, junto a pasados presidentes, socios rotarios, invitados especiales y familiares."
+   ],
+   "foto": "img/j5ecsv.webp",
+   "intentos": 1
   },
   {
    "titulo": "Mujeres que transforman: Rotary homenajea a líderes en Santo Domingo",
@@ -171,7 +198,15 @@
    "id": "dtn7o5",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/clubes-rotarios-bella-vista-y-mirador-promueven-pensamiento-critico-con-conferencia-de-ivan-gaton/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-05-at-7.29.06-PM-1200x1066.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO. – Los clubes Club Rotario Santo Domingo Bella Vista y Club Rotario Santo Domingo Mirador realizaron una conferencia magistral a cargo del analista internacional y académico Iván Gatón, con el objetivo de fomentar el pensamiento crítico y el análisis responsable sobre la realidad geopolít",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO. – Los clubes Club Rotario Santo Domingo Bella Vista y Club Rotario Santo Domingo Mirador realizaron una conferencia magistral a cargo del analista internacional y académico Iván Gatón, con el objetivo de fomentar el pensamiento crítico y el análisis responsable sobre la realidad geopolítica contemporánea.",
+    "La actividad reunió a rotarios, invitados especiales y ciudadanos interesados en comprender los desafíos del escenario internacional actual y su impacto en la región. El encuentro también contó con la participación de miembros de distintos clubes rotarios y representantes de diversos sectores de la sociedad dominicana."
+   ],
+   "foto": "img/dtn7o5.webp",
+   "intentos": 1
   },
   {
    "titulo": "Distrito 4060 de Rotary celebra el 121 aniversario de Rotary International",
@@ -204,7 +239,15 @@
    "id": "1n3rj6p",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/club-rotario-santiago-apostol-realiza-charla-vocacional-en-el-liceo-onesimo-jimenez/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/03/WhatsApp-Image-2025-12-31-at-9.12.37-PM-1-1200x720.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTIAGO. –El comunicador Luis Veras destacó la importante labor social y educativa que desarrolla el Club Rotario Santiago Apóstol, entidad que forma parte de Rotary International, organización que celebró el pasado lunes 121 años de su fundación a nivel mundial, respaldada por un amplio prestigio y r",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTIAGO. – El comunicador Luis Veras destacó la importante labor social y educativa que desarrolla el Club Rotario Santiago Apóstol, entidad que forma parte de Rotary International, organización que celebró el pasado lunes 121 años de su fundación a nivel mundial, respaldada por un amplio prestigio y reconocimiento internacional.",
+    "Veras resaltó que la misión principal de Rotary ha sido combatir la poliomielitis en el mundo, objetivo que ha logrado grandes avances, contribuyendo significativamente a la erradicación de esta enfermedad en gran parte del planeta. Asimismo, subrayó el fuerte compromiso social que caracteriza a la institución."
+   ],
+   "foto": "img/1n3rj6p.webp",
+   "intentos": 1
   },
   {
    "titulo": "El Club Rotario de Barahona celebra su 81 aniversario en un ambiente de amor y amistad",
@@ -216,7 +259,17 @@
    "id": "923fqc",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/el-club-rotario-de-barahona-celebra-su-81-aniversario-en-un-ambiente-de-amor-y-amistad/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/02/RotaryBarahona1-1.jpeg",
+   "resumen": "EL NUEVO DIARIO, BARAHONA: En una celebración marcada por el espíritu de amor y hermandad, el Club Rotario de Barahona conmemoró el pasado sábado su 81 aniversario de fundación. El evento, realizado en el Club Manatí de Villa Central, reunió a miembros de la comunidad, quienes disfrutaron de una velada amenizada por tr",
+   "extracto": [
+    "EL NUEVO DIARIO, BARAHONA: En una celebración marcada por el espíritu de amor y hermandad, el Club Rotario de Barahona conmemoró el pasado sábado su 81 aniversario de fundación.",
+    "El evento, realizado en el Club Manatí de Villa Central, reunió a miembros de la comunidad, quienes disfrutaron de una velada amenizada por tres destacados talentos locales, que cautivaron al público con música romántica y contagiosos ritmos de bachata.",
+    "La celebración no solo fue un homenaje a la historia del club, sino también una oportunidad para reflexionar sobre el impacto positivo que Rotary ha tenido en la comunidad de Barahona y más allá.",
+    "Personalidades de la clase comercial, empresarial y médica de la provincia, así como representantes de la sociedad civil, se unieron para celebrar los logros alcanzados y los esfuerzos continuos en pro del bienestar social."
+   ],
+   "foto": "img/923fqc.webp",
+   "intentos": 1
   },
   {
    "titulo": "(VIDEO) Club Rotario SD Mirador celebra 51 años de servicio comunitario",
@@ -228,7 +281,16 @@
    "id": "6rpzfd",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/video-club-rotario-sd-mirador-celebra-51-anos-de-servicio-comunitario/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-22-at-10.13.36-PM-1-1200x856.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador celebró este jueves su 51 aniversario con un acto realizado en el Salón Montás Guerrero del Club Deportivo Naco, en el que se reconoció la trayectoria de la institución y su aporte al desarrollo social del país. Durante la actividad, su presidente ",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador celebró este jueves su 51 aniversario con un acto realizado en el Salón Montás Guerrero del Club Deportivo Naco, en el que se reconoció la trayectoria de la institución y su aporte al desarrollo social del país.",
+    "Durante la actividad, su presidente Pedro O. Vargas Cepín recordó que el club fue fundado el 22 de enero de 1975 por 22 miembros comprometidos con el servicio comunitario y destacó que desde entonces ha desarrollado obras significativas a favor de la comunidad, convirtiéndose en un ejemplo de rotarismo en la República Dominicana.",
+    "Entre los proyectos emblemáticos, Vargas Cepín mencionó la creación del Instituto Dominicano de Alimentación y Nutrición en colaboración con los rotarios de Puerto Rico, ubicado en el Hospital Robert Reed Cabral; la donación de unas 900 prótesis de piernas traídas desde India, que se instalaron gratuitamente a ciudadanos de diferentes sectores; y la implementación de salas de costura iniciadas por la rotaria Ana Cristina Viñas, que hoy funcionan como centros comunitarios que benefician a miles de mujeres y jóvenes produciendo uniformes para escuelas públicas."
+   ],
+   "foto": "img/6rpzfd.webp",
+   "intentos": 1
   },
   {
    "titulo": "Rotary Regala Alegría lleva sonrisas y esperanza a 179 niños en Santo Domingo",
@@ -240,7 +302,15 @@
    "id": "oaevzn",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/rotary-regala-alegria-lleva-sonrisas-y-esperanza-a-179-ninos-en-santo-domingo/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-17-at-1.36.08-PM-1200x854.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO.- Los clubes Rotario Santo Domingo Bella Vista y Rotario Santo Domingo Mirador realizaron con éxito la jornada solidaria “Rotary Regala Alegría”, una iniciativa conjunta orientada a llevar alegría, amor y esperanza a niños y niñas de la capital dominicana. La actividad fue encabezada por ",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO.- Los clubes Rotario Santo Domingo Bella Vista y Rotario Santo Domingo Mirador realizaron con éxito la jornada solidaria “Rotary Regala Alegría”, una iniciativa conjunta orientada a llevar alegría, amor y esperanza a niños y niñas de la capital dominicana.",
+    "La actividad fue encabezada por el Club Rotario Santo Domingo Bella Vista, presidido por Rita Soriano, y el Club Rotario Santo Domingo Mirador, presidido por el PGD Pedro Vargas, y contó además con el respaldo de destacados líderes rotarios como Amarilys Durán, Amaury Medina, Saira Germosén, Rosa María Díaz, doña Martha Olivares, Juaris Francisco y Blasina de los Santos."
+   ],
+   "foto": "img/oaevzn.webp",
+   "intentos": 1
   },
   {
    "titulo": "Club Rotario Santo Domingo Bella Vista: 57 años de servicio y esperanza",
@@ -349,7 +419,16 @@
    "id": "1eo7ipl",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/rotary-club-santo-domingo-mirador-juramenta-nuevos-socios/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-29-at-8.28.14-PM-2.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO.- En un acto celebrado en el Club Naco de Santo Domingo, el Rotary Club Santo Domingo Mirador recibió la visita oficial de la gobernadora distrital de Rotary, Olga Virginia Acosta Sena. Durante la actividad se juramentaron seis nuevos socios: Eraite Peña, Clary Obst, Angelina Sosa, Elizab",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO.- En un acto celebrado en el Club Naco de Santo Domingo, el Rotary Club Santo Domingo Mirador recibió la visita oficial de la gobernadora distrital de Rotary, Olga Virginia Acosta Sena.",
+    "Durante la actividad se juramentaron seis nuevos socios: Eraite Peña, Clary Obst, Angelina Sosa, Elizabeth Conklin, Rosa López y Asami Tateyama, destacadas profesionales y empresarias, quienes asumieron la visión y misión de Rotary como su eje de acción comunitaria.",
+    "Rotary, con más de 1.3 millones de miembros en 200 países, es una de las organizaciones de ayuda social y humanitaria más grandes del mundo, destinando fondos para proyectos de hasta 300 millones de dólares anuales, fruto de donaciones y recaudaciones de entidades privadas y grandes donantes."
+   ],
+   "foto": "img/1eo7ipl.webp",
+   "intentos": 1
   },
   {
    "titulo": "El Club Rotario Santo Domingo Bella Vista juramenta nueva directiva para el período 2025-2026",
@@ -381,7 +460,16 @@
    "id": "r1fi4h",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/club-rotario-santo-domingo-bella-vista-juramenta-su-nueva-directiva/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-13-at-9.13.31-AM-2-1200x1067.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO. – En un emotivo y solemne acto celebrado el miércoles 9 de julio de 2025, el Club Rotario Santo Domingo Bella Vista realizó el cambio de directiva correspondiente al año rotario 2025-2026, marcando el inicio de una nueva etapa de liderazgo, visión y compromiso con el servicio a la comuni",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO. – En un emotivo y solemne acto celebrado el miércoles 9 de julio de 2025, el Club Rotario Santo Domingo Bella Vista realizó el cambio de directiva correspondiente al año rotario 2025-2026, marcando el inicio de una nueva etapa de liderazgo, visión y compromiso con el servicio a la comunidad.",
+    "Durante la ceremonia, fue juramentada como presidenta la empresaria, líder social y rotaria de vocación Rita Milosi Soriano, quien asume el cargo bajo el lema “Unidos para hacer el bien”, con el firme propósito de continuar fortaleciendo el impacto del club en la sociedad dominicana.",
+    "La invocación a Dios estuvo a cargo del diácono Leandro Acosta, quien de manera magistral hizo un recorrido por la historia de Rotary desde su fundación en 1905, resaltando sus aportes a nivel global y su impacto positivo en la erradicación de la polio, una de las causas más emblemáticas del movimiento rotario."
+   ],
+   "foto": "img/r1fi4h.webp",
+   "intentos": 1
   },
   {
    "titulo": "Olga Virginia Acosta es la nueva Gobernadora del Distrito 4060 de Rotary Internacional",
@@ -452,7 +540,16 @@
    "id": "1conmvo",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/gobernadora-del-club-rotario-de-republica-dominicana-realiza-visita-oficial-a-dajabon/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/11/09225219/WhatsApp-Image-2024-11-09-at-9.24.58-PM-e1731207225556-1200x721.jpeg",
+   "resumen": "EL NUEVO DIARIO, DAJABÓN.- La noche de este sábado 09 de noviembre, la maxima autoridad del Club Rotario de la República Dominicana, Ysabel Reyes Saint-Hilaire, realizó una visita oficial a los rotarios del municipio fronterizo de Dajabón. El recibimiento a la gobernadora del Club Rotario se realizó en medio de una emo",
+   "extracto": [
+    "EL NUEVO DIARIO, DAJABÓN.- La noche de este sábado 09 de noviembre, la maxima autoridad del Club Rotario de la República Dominicana, Ysabel Reyes Saint-Hilaire, realizó una visita oficial a los rotarios del municipio fronterizo de Dajabón.",
+    "El recibimiento a la gobernadora del Club Rotario se realizó en medio de una emotiva actividad celebrada en el salón parroquial de la iglesia Nuestra Señora del Rosario, con la participación de rotarios y distinguidos invitados.",
+    "Las palabras de bendición de la actividad estuvieron a cargo del Sacerdote Jesuita Roberto Guzmán, cura párroco de Dajabón, y quién pidió un minuto de silencio a la memoria de Reyes Morel «Mamá», fundadora del Club Rotario en Dajabón."
+   ],
+   "foto": "img/1conmvo.webp",
+   "intentos": 1
   },
   {
    "titulo": "Águilas blanquean 12×0 a Granjeros de Moca en juego benéfico Club Rotario Gurabito",
@@ -489,7 +586,11 @@
     "Escuchar artículo Reproducir Pausar Detener SANTO DOMINGO.- El Club Rotario Santo Domingo Quisqueya realizó su gran acto solemne de Cambio de directiva para la gestión 2024-2025, presidida por el joven Alexander Cabrera Infante, celebrada en el restaurante Yao en el Ensanche Naco.",
     "Para la ocasión la Gobernadora Rotaria 2024-2025 del Distrito 4060 de la República Dominicana Ysabel Reyes, juramentó al joven y profesional Alexander Cabrera Infante como Presidente para la gestión 2024-2025.",
     "Luego procedieron a la juramentación de la nueva directiva integrada por los siguientes jóvenes profesionales: Yohanni Durán (Secretaria), Flor Peña (Tesorera), Junior Sánchez (Maestro de Ceremonias), Juan Carlos Pérez (Administración del club), Iván Chevalier (Membresía), Wendy Candelario (Comité Imagen Pública), Gribiscarla Barrios (Fundación Rotaria) y Joan Mateo (Director de Proyectos)."
-   ]
+   ],
+   "imagen": "http://almomento.net/wp-content/uploads/2024/09/rota.jpg",
+   "resumen": "SANTO DOMINGO.- El Club Rotario Santo Domingo Quisqueya realizó su gran acto solemne de Cambio de directiva para la gestión 2024-2025, presidida por el joven Alexander Cabrera Infante, celebrada en el restaurante Yao en el Ensanche Naco. [&hellip;]",
+   "foto": "img/ocoigx.webp",
+   "intentos": 1
   },
   {
    "titulo": "Presentan nueva directiva del Club Rotario Santo Domingo Quisqueya",
@@ -521,7 +622,15 @@
    "id": "1eko2c0",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/juramentan-nueva-directiva-de-rotary-santo-domingo-mirador-3/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/07/26081433/CLUB.png",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador, Distrito 4060, juramentó su nueva directiva para el período 2024-2025, la cual estará encabezada por Pedro Vargas Cepin, destacado empresario de organización y montaje de eventos, quien prometió trabajar bajo los lineamientos y principios que dict",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador, Distrito 4060, juramentó su nueva directiva para el período 2024-2025, la cual estará encabezada por Pedro Vargas Cepin, destacado empresario de organización y montaje de eventos, quien prometió trabajar bajo los lineamientos y principios que dictan esa organización de líderes voluntarios.",
+    "El señor Vargas que, durará en esas funciones por un año como establecen los estatutos de la organización, es un rotario que ya había sido Gobernador del Distrito 4060 para la República Dominicana en el periodo 2017-2018 y que es un abanderado tanto de la amistad como del servicio a los demás, los dos pilares que definen la organización."
+   ],
+   "foto": "img/1eko2c0.webp",
+   "intentos": 1
   },
   {
    "titulo": "Pedro Vargas al frente de la nueva directiva de Rotary Santo Domingo",
@@ -556,7 +665,11 @@
    "extracto": [
     "Escuchar artículo Reproducir Pausar Detener SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador, Distrito 4060, juramentó su nueva directiva para el período 2024-2025, la cual estará encabezada por Pedro Vargas Cepin, destacado empresario de organización y montaje de eventos, quien prometió trabajar bajo los lineamientos y principios que dictan esa organización de líderes voluntarios.",
     "Vargas que, durará en esas funciones por un año como establecen los estatutos de la organización, es un rotario que ya había sido Gobernador del Distrito 4060 para la República Dominicana en el periodo 2017-2018 y que es un abanderado tanto de la amistad como del servicio a los demás, los dos pilares que definen la organización."
-   ]
+   ],
+   "imagen": "http://almomento.net/wp-content/uploads/2024/07/Michael-JacoboPamela-Sanchez-Ysabel-Reyes-y-Pedro-Vargas.jpg",
+   "resumen": "SANTO DOMINGO. – El Club Rotario Santo Domingo Mirador, Distrito 4060, juramentó su nueva directiva para el período 2024-2025, la cual estará encabezada por Pedro Vargas Cepin, destacado empresario de organización y montaje de eventos, quien prometió [&hellip;]",
+   "foto": "img/1liy3cm.webp",
+   "intentos": 1
   },
   {
    "titulo": "Celebran cuarta edición del Rotary Day República Dominicana",
@@ -630,7 +743,16 @@
    "id": "1rq69d1",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/presidente-del-senado-recibe-reconocimiento-del-club-rotario-de-cotui/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/06/04072723/Ricardo-De-los-Santos-al-recibir-reconocimiento-del-Club-Rotaro-de-Cotui-1200x1200.webp",
+   "resumen": "Además fue distinguido por los rotarios por ser un congresistas de encomiable compromiso en favor del desarrollo de la provincia",
+   "extracto": [
+    "EL NUEVO DIARIO, SÁNCHEZ RAMÍREZ. – El Club Rotario Cotuí Incorporado de Sánchez Ramírez, reconoció la noche del lunes al presidente del Senado, Ricardo De los Santos, «por su extraordinario aporte al fortalecimiento institucional y al sistema democrático de la República Dominicana».",
+    "El legislador por la provincia, Sánchez Ramírez además, fue distinguido por los rotarios por ser un congresistas de encomiable compromiso en favor del desarrollo de la demarcación y por su apoyo determinante a las actividades del Club Rotario para el progreso de la comunidad, destaca una nota de prensa enviada este martes.",
+    "De los Santos recibió la placa de reconocimiento en un acto celebrado en el auditorio de la Cooperativa Vega Real del municipio de Cotuí, dónde además recibieron galardones: El carnavalero Juan Francisco Vásquez (Juampa) y la periodista y productora de televisión, Nairobi Viloria."
+   ],
+   "foto": "img/1rq69d1.webp",
+   "intentos": 1
   },
   {
    "titulo": "Rotary reconoce 24 damas destacadas en la sociedad dominicana",
@@ -743,7 +865,16 @@
    "id": "wz2j3p",
    "revisado": true,
    "original": "https://elnuevodiario.com.do/nuris-henriquez-de-arroyo-asume-presidencia-del-club-rotario-moca/",
-   "v": 2
+   "v": 2,
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/07/12150001/Desde-la-izquierda-la-Maria-Palacios-Gobernadora-del-distrito-Rotario-4060-juramenta-Nuriz-Henriquez-presidente-club-Rotario-Moca.jpg",
+   "resumen": "EL NUEVO DIARIO, MOCA.-El Club Rotario Moca, Inc., institución con 74 años de servicio a la comunidad, juramentó a la licenciada Nuris Henríquez de Arroyo, como nueva presidenta para el período 2022-2023, en un emotivo acto que contó con la bendición del sacerdote Rafael Enrique Castillo, cura párroco de la iglesia del",
+   "extracto": [
+    "EL NUEVO DIARIO, MOCA.-El Club Rotario Moca, Inc., institución con 74 años de servicio a la comunidad, juramentó a la licenciada Nuris Henríquez de Arroyo, como nueva presidenta para el período 2022-2023, en un emotivo acto que contó con la bendición del sacerdote Rafael Enrique Castillo, cura párroco de la iglesia del Sagrado Corazón de Jesús.",
+    "Henríquez de Arroyo, fue juramentada por la señora María Palacios, gobernadora del Distrito 4060 de República Dominicana, quien estuvo acompañada en el acto por su esposo, Kenzo Yamamoto.",
+    "El Club Rotary Moca, Inc., dependencia del Club Rotary Internacional, institución de servicio a nivel mundial, con una membrecía de más de 1, 400, 000 socios activos, cada 30 de junio cierra un periodo e inicia uno nuevo el 1ro de julio, en todos los clubes y distritos."
+   ],
+   "foto": "img/wz2j3p.webp",
+   "intentos": 1
   },
   {
    "titulo": "Club Rotario Maguana celebra su 44 aniversario",
@@ -881,14 +1012,14 @@
    "original": "https://7dias.com.do/2019/08/26/club-rotario-santo-domingo-celebra-sesion-y-reconoce-a-socias/",
    "imagen": "https://7dias.com.do/wp-content/uploads/2019/08/df5286ee-dsc_9260-zoraima-cuello-veronica-sencion-jatnna-tavares-manuel-gomez-achecar-y-aspasia-de-gomez..jpg",
    "resumen": "República Dominicana.- Fue celebrada la 8va. Sesión del Club Rotario Santo Domingo Bella Vista, con la visita oficial del señor Manuel Gómez Achecar Gobernador Rotario del Distrito 4060 y su distinguida esposa Aspasia de Gómez. El acto celebrado en el Salón Montás Guerrero del Club Deportivo Naco, inició con las&hellip",
-   "v": 2,
    "extracto": [
     "República Dominicana.- F ue celebrada la 8va. Sesión del Club Rotario Santo Domingo Bella Vista, con la visita oficial del señor Manuel Gómez Achecar Gobernador Rotario del Distrito 4060 y su distinguida esposa Aspasia de Gómez.",
     "El acto celebrado en el Salón Montás Guerrero del Club Deportivo Naco, inició con las notas del Himno Nacional interpretado por la Mezo-soprano Vivian Lovelace y el himno rotario interpretado por los socios rotarios.",
     "Las palabras de bienvenida estuvieron a cargo de Rosa Verónica Sención, presidente del Club Rotario Santo Domingo Bella Vista, quien agradeció la presencia y el respaldo de los miembros.",
     "En el acto, las nuevas socias que fueron juramentadas y, los invitados que estuvieron presente en esa especial actividad, que contó con la presencia del Gobernador del Distrito 4060 y los familiares y amigos de las homenajeadas."
    ],
-   "foto": null
+   "foto": null,
+   "intentos": 2
   },
   {
    "titulo": "Club Rotario Barahona reconoce director CONAVIHSIDA Víctor Terrero",
@@ -927,7 +1058,11 @@
     "La actividad estuvo encabezada por el presidente Josue Van Der Horst y su esposa Annety Burgos, quienes compartieron el orgullo de ser el primer club fundado en la República Dominicana.",
     "Van Der Horst dio la bienvenida a los presentes. A seguidas, el pasado gobernador Luis Yépez Suncar, habló sobre la histórica fundación del primer Rotary Club dominicano.",
     "También ocupó el podio el pasado gobernador Jordi Manelic Gassó, quien habló sobre el programa Regalo de Vida, mediante el cual se invirtieron unos 200,000 dólares en 2017 para operar en el Hospital Robert Reid Cabral a 100 niños de familias de escasos recursos y corregirles igual cantidad de defectos congénitos del corazón."
-   ]
+   ],
+   "imagen": "http://almomento.net/wp-content/uploads/2018/02/Gobernador-Pedro-Vargas-su-esposa-Pamela-de-Vargas-Annety-Burgos-de-Van-der-Horst-Presidente-Josué-De-Van-Der-Horst-min.jpg",
+   "resumen": "SANTO DOMINGO.- El Rotary Club de Santo Domingo y el Distrito 4060 celebraron 75 años de servicio a la sociedad dominicana durante un encuentro celebrado en el auditorio de la Universidad Iberoamericana (UNIBE). La actividad estuvo [&hellip;]",
+   "foto": "img/7q60u.webp",
+   "intentos": 1
   },
   {
    "titulo": "Rotary Santiago se reúne con el gobernador distrital",
@@ -1121,7 +1256,8 @@
     "Murió a la edad de 59 años, en Puerto Plata a las 11: 40 P. M., del 10 de mayo de 2005, el médico—cardiólogo y rotario, doctor Alfonso Reyes del Rosario, quien ejerció dicha profesión por más de 30 años en Puerto Plata, recibiendo reconocimientos y honores por su ardua labor en favor de los más desposeídos de éste pueblo, que lo acogió con amor y cariño.",
     "En Puerto Plata ejerció dicha profesión de médico—cardiólogo, siendo un gran dedicado y estudioso de la ciencia hipocrática. Todos los estratos sociales de Puerto Plata lo admiraban, respetaban y querían por su entrega total a su especialidad.",
     "En su larga carrera de médico—cardiólogo en el Grupo Médico Dr. Bournigal y en el Hospital Público Ricardo Limardo de Puerto Plata, actuó con la mayor idoneidad y honestidad en el desempeño de sus funciones profesionales. Se le admiró y respetó en la clase médica puertoplateña."
-   ]
+   ],
+   "intentos": 1
   },
   {
    "titulo": "Club Rotario Santo Domingo ofrece charla",
@@ -1171,12 +1307,12 @@
    "original": "https://acento.com.do/sociales/el-rotary-club-santo-domingo-mirador-elige-nueva-directiva-8267377.html",
    "imagen": "https://media.acento.com.do/media/storage01/uploads/10001437069890jpg.jpg",
    "resumen": "El Rotary Club Santo Domingo Mirador elige nueva directiva",
-   "v": 2,
    "extracto": [
     "SANTO DOMINGO, República Dominicana.- En ceremonia realizada en el Hotel Barceló Santo Domingo, fue juramentada como Presidente del Rotary Club Santo Domingo Mirador, la licenciada Margarita Rodríguez de Montás para el periodo 2015-2016, tomándole el juramento de rigor la Gobernadora del Distrito 4060 Miguelina Acosta, en presencia de los miembros de la matrícula y una apreciable cantidad de invitados de otros clubes rotarios y de la sociedad. El Presidente anterior Elby Cabrera le colocó el botón a su sucesora y le entrego el mallete de autoridad.",
     "En su discurso de orden la nueva Presidente señalo los proyectos que se realizarán en su ejercicio, todos orientados, básicamente, en las seis aéreas de interés que recomienda Rotary International en los aspectos de salud, educación, auto sostenibilidad, económica comunitaria, el cuidado materno infantil, en la dirección de atenuar necesidades básicas de las comunidades para elevar su nivel de vida."
    ],
-   "foto": null
+   "foto": null,
+   "intentos": 2
   },
   {
    "titulo": "Rotary designa a Milqueya A. Portes",

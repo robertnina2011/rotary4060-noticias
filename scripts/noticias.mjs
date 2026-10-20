@@ -107,10 +107,28 @@ function extracto(html) {
   return out;
 }
 
+// Plan B para medios en WordPress que bloquean la página (p. ej. «429 demasiadas peticiones»):
+// su API pública da la foto destacada, el resumen y el texto para el extracto.
+async function desdeWordPress(url) {
+  try {
+    const u = new URL(url), slug = u.pathname.split('/').filter(Boolean).pop();
+    if (!slug) return null;
+    const j = await get(`${u.origin}/wp-json/wp/v2/posts?slug=${encodeURIComponent(slug)}&_embed=wp:featuredmedia&_fields=excerpt,content,_embedded,_links`, 15000, 'json');
+    const p = Array.isArray(j) && j[0];
+    if (!p) return null;
+    return {
+      imagen: (((p._embedded || {})['wp:featuredmedia'] || [])[0] || {}).source_url || null,
+      resumen: limpiar(p.excerpt && p.excerpt.rendered).slice(0, 320) || null,
+      extracto: extracto(`<article>${(p.content && p.content.rendered) || ''}</article>`)
+    };
+  } catch { return null; }
+}
+
 const VERSION = 2; // al subirla, las noticias ya guardadas se vuelven a completar (foto propia y extracto)
 async function enriquecer(n) {
   if (n.v === VERSION) return n;
-  const out = {...n, v: VERSION, revisado: true};
+  const out = {...n, revisado: true};
+  let completo = true;
   if (n.tipo === 'prensa') {
     const real = n.original || await enlaceReal(n.url);
     const html = real ? await get(real, 15000) : null;
@@ -123,8 +141,20 @@ async function enriquecer(n) {
       const ex = extracto(html);
       if (ex.length) out.extracto = ex;
     }
+    if (real && (!out.imagen || !out.extracto)) {
+      const wp = await desdeWordPress(real);
+      if (wp) {
+        if (!out.imagen && wp.imagen) out.imagen = wp.imagen;
+        if (!out.resumen && wp.resumen) out.resumen = wp.resumen;
+        if (!out.extracto && wp.extracto && wp.extracto.length) out.extracto = wp.extracto;
+      }
+    }
+    // si el medio no respondió, se reintenta en los próximos días (hasta 5 veces)
+    if (!real || (!html && !out.imagen)) completo = false;
   }
-  if (out.imagen && !out.foto) out.foto = await guardarFoto(out.imagen, out.id);
+  if (out.imagen && !out.foto) { out.foto = await guardarFoto(out.imagen, out.id); if (!out.foto) completo = false; }
+  out.intentos = (n.intentos || 0) + 1;
+  if (completo || out.intentos >= 5) out.v = VERSION; else delete out.v;
   return out;
 }
 
@@ -198,6 +228,7 @@ export async function recolectar(archivoPrevio = [], env = {}) {
     else if (!prev.imagen && n.imagen) vistos.set(k, {...prev, imagen: n.imagen, resumen: prev.resumen || n.resumen});
   }
   let archivo = [...vistos.values()].map(n => ({...n, id: n.id || idDe(n.titulo)})).sort((a, b) => b.fecha.localeCompare(a.fecha));
+  archivo = archivo.map(n => (n.v === VERSION && n.tipo === 'prensa' && !n.foto && !n.intentos) ? {...n, v: undefined} : n);
   const pendientes = archivo.filter(n => n.v !== VERSION).slice(0, 40);
   for (let i = 0; i < pendientes.length; i += 3) {
     const hechos = await Promise.all(pendientes.slice(i, i + 3).map(enriquecer));
