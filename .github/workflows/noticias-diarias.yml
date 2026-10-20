@@ -1,0 +1,31 @@
+# Recolecta cada día las noticias del Distrito 4060 en un servidor gratuito de GitHub (no depende de ningún ordenador).
+# Guarda data/noticias.json (vigentes), data/archivo-noticias.json (todas, sin borrar) y data/instagram.json.
+# La web los lee desde raw.githubusercontent.com; si no puede, usa la copia incluida en el sitio.
+name: Noticias diarias
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 7:00 en República Dominicana (UTC-4)
+  workflow_dispatch: {}    # permite lanzarlo a mano desde la pestaña Actions
+permissions:
+  contents: write
+jobs:
+  recolectar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Recolectar noticias
+        run: node scripts/noticias.mjs
+        env:
+          IG_TOKEN_ROTARYDISTRITO4060: ${{ secrets.IG_TOKEN_ROTARYDISTRITO4060 }}
+          IG_TOKEN_INTERACT4060: ${{ secrets.IG_TOKEN_INTERACT4060 }}
+          IG_TOKEN_CLUBROTARACTSANCRISTOBAL: ${{ secrets.IG_TOKEN_CLUBROTARACTSANCRISTOBAL }}
+      - name: Guardar cambios
+        run: |
+          git config user.name "rotary4060-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Noticias del $(date -u +%Y-%m-%d)"
+          git push
