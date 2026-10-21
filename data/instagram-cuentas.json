@@ -1,4 +1,12 @@
 {
- "clubes": {"cotui": "rotaryclubcotui", "moca-2": "rotaractmoca", "san-cristobal": "rotary_sc", "san-cristobal-2": "clubrotaractsancristobal"},
- "distrito": ["rotarydistrito4060", "interact4060"]
+ "clubes": {
+  "cotui": "rotaryclubcotui",
+  "moca-2": "rotaractmoca",
+  "san-cristobal": "rotaryclubsancristobal",
+  "san-cristobal-2": "clubrotaractsancristobal"
+ },
+ "distrito": [
+  "rotarydistrito4060",
+  "interact4060"
+ ]
 }
