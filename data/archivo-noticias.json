@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-21T15:44:19.603Z",
- "total": 76,
+ "actualizado": "2026-10-22T15:43:53.049Z",
+ "total": 78,
  "noticias": [
   {
    "titulo": "Licey y Águilas el sábado a beneficio del Club Rotario Garabito",
@@ -852,6 +852,26 @@
    "foto": "img/3d94sg.webp"
   },
   {
+   "titulo": "Club Rotario Santiago de los Caballeros realiza donativo a hospital Cabral y Báez",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdEFmVnhKdzNjWHJITmtHaE9ZZHpya1lZal95bXFXdHMtcEhqS29pZ2k2a3pNdU5qMk1JNkxJbl9HVFlqcGl2QmdQSXVvX3dyTW1oU3RUZW92TlBlcGFfNEFURVhpQ05pbGdkSzl5MUtzVmNHRUwzVEFKY1FVMFpGV3d6RkhQSUF4a1RiTlpsQXBySzJqaU01aS11cjE1bkstZHZFZXo2UEJVcmxXTjN2VQ?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2022-10-11T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-22T15:43:50.999Z",
+   "id": "111rtpp",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-santiago-de-los-caballeros-realiza-donativo-a-hospital-cabral-y-baez/",
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/10/11091409/WhatsApp-Image-2022-10-11-at-1.00.35-PM-1200x1200.jpeg",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO.- En sus propósitos y metas de servicio a la comunidad, y cumpliendo con la norma de que se beneficia más el que mejor sirve, el Club Rotario Santiago de los Caballeros realizó una nutrida donación de anticoagulantes para ser utilizados en la unidad de hemodiálisis del hospital José María",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO.- En sus propósitos y metas de servicio a la comunidad, y cumpliendo con la norma de que se beneficia más el que mejor sirve, el Club Rotario Santiago de los Caballeros realizó una nutrida donación de anticoagulantes para ser utilizados en la unidad de hemodiálisis del hospital José María Cabral y Báez.",
+    "El presidente del Club Rotario Santiago de los Caballeros, Fausto Pérez, en sus palabras dijo que se trata de un aporte de la institución de servicios más antigua de Santiago, para así contribuir a mejorar la salud de miles de pacientes que van a buscar los servicios de salud, especialmente en las consultas de nefrología y hemodiálisis."
+   ],
+   "foto": "img/111rtpp.webp",
+   "intentos": 1,
+   "v": 2
+  },
+  {
    "titulo": "Milqueya Portes recibe reconocimiento Club Rotario Santo Domingo Bella Vista",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQm5EU2hUYnRSaHNhVmVVX0l4VGRQMzNlaktxYWJiRGtXckVMS2tRdUNuMHFiNzZ2STItVndnaHVPRDlYZXVieW5WYmlMTV9mMVlsZWdxODhzVlJNcEUzLUtOQ3FRRlE0Tm52SW1VdzNvdHZxdTRHWjMyc3hYMGZYeDY1bm9MV183bHFqQjJmWGV5T1dHSUV5c2EtZ2Z4d0xSNFJZaFFEQVNWYkJ1X3c?oc=5",
    "fuente": "turepublica.com",
@@ -1388,6 +1408,18 @@
     "Carlos Liriano, que ha seguido varios cursos y posgrados para estudiar el seguimiento de proyectos y la dinámica humana para que esos proyectos lleguen a bien, contó que en el año 1950 el pueblo de Los Botados de Yamasá estaba conformado por diversas familias campesinas de escasos recursos económicos que dieron inicio y crearon la comunidad, era considerado un “paraje” hasta que la comunidad se desarrolló, creció, se superó; en el año 1967, fue elevado a la categoría de “sección” para llegar a ser, en 1998, debido a su gran desarrollo y con la aprobación de la Ley 170-98, el “distrito municipal” Los Botados."
    ],
    "foto": "img/1l7lav3.webp"
+  },
+  {
+   "titulo": "El foro de los rotarios",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1hBWXBzRDh5ZllpRjlSaGFuSUpqY0tBY1NVS2ozNWl3cjZSQ0pxNnBvbDJBZFFacUQ4WWtkRGswc2hDN0dBYlFzcUE1OXNpb0tMUXgwQzBPaUJYMlhRVVFBMWROWGJOQi1DZjJpeG55SWRjMXB4T2w2Q04yXzRobzdhdWlCZ9IBiwFBVV95cUxPTk1WSHZWeHZ2WEdldmNfcnY3N1pMd3FaWERESWYzY2t1NktDd2drNTFlQXF4N1FMQ19hNVJqTERUTVlaRFQ4N0hZRDgySUFod1RkVDlzRndGRWtaQ1VfV2g2aGNBZTdzRTdIUHNVb19pNTZTVmgtQUtRZXNqclNSZHBFRnF4MG51WVNB?oc=5",
+   "fuente": "Listín Diario",
+   "fecha": "2012-06-09T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-10-22T15:43:50.999Z",
+   "id": "zuusdo",
+   "revisado": true,
+   "original": "https://listindiario.com/la-vida/2012/06/09/235530/el-foro-de-los-rotarios.html",
+   "intentos": 1
   },
   {
    "titulo": "Los rotarios",
