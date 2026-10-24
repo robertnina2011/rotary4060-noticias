@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T15:32:25.156Z",
+ "actualizado": "2026-10-24T14:10:31.657Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -83,7 +83,7 @@
      "album": false,
      "fecha": "2026-10-21T00:05:05.000Z",
      "texto": "✨ Liderar con intención, servir con el corazón y actuar con propósito. Nuestra presidenta, Ana María Paula López, nos invita a construir una gestión donde cada acción deje una huella duradera. 💚 #RotaractMoca #Gestión20262027 #IntenciónYAcción #LiderazgoConPropósito",
-     "likes": 40,
+     "likes": 43,
      "comentarios": 5,
      "img": "ig/rotaractmoca/DeuBSSlTSSM.webp"
     },
@@ -218,9 +218,31 @@
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
    "seguidores": 1821,
-   "total": 692,
+   "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
+    {
+     "code": "De4OSLmvPTY",
+     "url": "https://www.instagram.com/p/De4OSLmvPTY/",
+     "video": true,
+     "album": false,
+     "fecha": "2026-10-24T13:20:32.000Z",
+     "texto": "🌍 Un mundo libre de polio es una meta que nos une. En este Día Mundial contra la Polio, desde Rotary Distrito 4060 levantamos nuestra voz por una causa que trasciende fronteras: #EndPolioNow. Décadas de esfuerzo, solidaridad y compromiso nos han acercado a la erradicación de est",
+     "likes": 11,
+     "comentarios": 0,
+     "img": "ig/rotarydistrito4060/De4OSLmvPTY.webp"
+    },
+    {
+     "code": "De2gy1nvMdV",
+     "url": "https://www.instagram.com/p/De2gy1nvMdV/",
+     "video": false,
+     "album": false,
+     "fecha": "2026-10-23T21:24:22.000Z",
+     "texto": "Rotary está haciendo historia‼️ ¿Sabías que, gracias al compromiso de Rotary y sus aliados, los casos de polio en el mundo se han reducido en un 99.9 % desde 1988? Detrás de esta cifra hay millones de niños protegidos, familias con esperanza y vidas transformadas. Este es el verd",
+     "likes": 21,
+     "comentarios": 0,
+     "img": "ig/rotarydistrito4060/De2gy1nvMdV.webp"
+    },
     {
      "code": "DezlsAsvYrC",
      "url": "https://www.instagram.com/p/DezlsAsvYrC/",
@@ -228,7 +250,7 @@
      "album": false,
      "fecha": "2026-10-22T18:10:39.000Z",
      "texto": "¡Juntos podemos poner fin a la polio!❤️ Cada vacuna nos acerca a un mundo libre de polio. Gracias al compromiso de Rotary y sus aliados, millones de niños están protegidos y seguimos avanzando hacia la erradicación de esta enfermedad.✨ La erradicación de la polio es una promesa q",
-     "likes": 16,
+     "likes": 26,
      "comentarios": 0,
      "img": "ig/rotarydistrito4060/DezlsAsvYrC.webp"
     },
@@ -242,37 +264,26 @@
      "likes": 27,
      "comentarios": 0,
      "img": "ig/rotarydistrito4060/Ddkfw_7RKdq.webp"
-    },
-    {
-     "code": "Dc7HNPxv3fV",
-     "url": "https://www.instagram.com/p/Dc7HNPxv3fV/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-09-05T23:12:26.000Z",
-     "texto": "Septiembre | Mes de la Alfabetización y la Educación Básica La educación transforma vidas y abre oportunidades. 🌎💙 El Distrito 4060 reafirma su compromiso de promover la alfabetización y una educación de calidad para todos. #Distrito4060 #Gentedeaccion #generadounimpactodurader",
-     "likes": 17,
-     "comentarios": 0,
-     "img": "ig/rotarydistrito4060/Dc7HNPxv3fV.webp"
-    },
-    {
-     "code": "DcBkmpiumH5",
-     "url": "https://www.instagram.com/p/DcBkmpiumH5/",
-     "video": true,
-     "album": false,
-     "fecha": "2026-08-14T14:54:18.000Z",
-     "texto": "Compañeros Rotarios, hoy nos toca extender la mano al hermano país de Colombia, donde el reciente terremoto ha golpeado duro a nuestros hermanos del Chocó y comunidades pertenecientes al Distrito 4271 de Rotary. Es el momento de unir nuestros esfuerzos, realizando actividades de ",
-     "likes": 188,
-     "comentarios": 13,
-     "img": "ig/rotarydistrito4060/DcBkmpiumH5.webp"
     }
    ]
   },
   "interact4060": {
    "nombre": "Interact 4060",
    "seguidores": 1083,
-   "total": 700,
+   "total": 701,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
+    {
+     "code": "De3Og4vjaVf",
+     "url": "https://www.instagram.com/p/De3Og4vjaVf/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-10-24T04:01:34.000Z",
+     "texto": "🔬 ¿Sabías que esta fecha también honra a un científico que contribuyó a cambiar la historia de la salud pública? El 24 de octubre conmemora el nacimiento de Jonas Salk, quien dirigió el equipo que desarrolló una de las primeras vacunas eficaces contra la polio. La ciencia, la pr",
+     "likes": 0,
+     "comentarios": 0,
+     "img": "ig/interact4060/De3Og4vjaVf.webp"
+    },
     {
      "code": "DeaOEiJH01s",
      "url": "https://www.instagram.com/p/DeaOEiJH01s/",
@@ -305,17 +316,6 @@
      "likes": 0,
      "comentarios": 3,
      "img": "ig/interact4060/DdFfxpijItF.webp"
-    },
-    {
-     "code": "DclzketlYp-",
-     "url": "https://www.instagram.com/p/DclzketlYp-/",
-     "video": false,
-     "album": true,
-     "fecha": "2026-08-28T16:36:15.000Z",
-     "texto": "Hay comienzos que marcan la diferencia. 💙 Hoy celebramos el nacimiento de Interact Santo Domingo, un club que inicia su camino con un propósito claro: servir, liderar y generar un impacto positivo en su comunidad. ¡Bienvenidos al Distrito 4060! Que esta sea la primera de muchas ",
-     "likes": 0,
-     "comentarios": 6,
-     "img": "ig/interact4060/DclzketlYp-.webp"
     }
    ]
   }
