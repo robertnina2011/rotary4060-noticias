@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-27T16:06:23.681Z",
+ "actualizado": "2026-10-28T16:53:14.987Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1201,
+   "seguidores": 1200,
    "total": 902,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -165,7 +165,7 @@
   },
   "clubrotaractsancristobal": {
    "nombre": "ROTARACT CLUB DE SAN CRISTÓBAL",
-   "seguidores": 1358,
+   "seguidores": 1359,
    "total": 674,
    "avatar": "ig/clubrotaractsancristobal/perfil.webp",
    "posts": [
@@ -217,7 +217,7 @@
   },
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
-   "seguidores": 1822,
+   "seguidores": 1823,
    "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
@@ -228,7 +228,7 @@
      "album": false,
      "fecha": "2026-10-24T13:20:32.000Z",
      "texto": "🌍 Un mundo libre de polio es una meta que nos une. En este Día Mundial contra la Polio, desde Rotary Distrito 4060 levantamos nuestra voz por una causa que trasciende fronteras: #EndPolioNow. Décadas de esfuerzo, solidaridad y compromiso nos han acercado a la erradicación de est",
-     "likes": 33,
+     "likes": 34,
      "comentarios": 0,
      "img": "ig/rotarydistrito4060/De4OSLmvPTY.webp"
     },
@@ -269,7 +269,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1083,
+   "seguidores": 1084,
    "total": 701,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
