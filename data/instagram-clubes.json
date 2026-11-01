@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-31T15:55:06.264Z",
+ "actualizado": "2026-11-01T16:57:51.753Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -62,9 +62,31 @@
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
    "seguidores": 1200,
-   "total": 924,
+   "total": 926,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
+    {
+     "code": "DfKovggTt02",
+     "url": "https://www.instagram.com/p/DfKovggTt02/",
+     "video": false,
+     "album": false,
+     "fecha": "2026-10-31T16:56:23.000Z",
+     "texto": "🌸 Que nunca se te olvide hacer de tu salud una prioridad. Conoce tus factores de riesgo, presta atención a los cambios de tu cuerpo y mantén al día tus chequeos médicos. Un pequeño recordatorio puede convertirse en una gran diferencia. 🎀 💕 Cuídate, quiérete y comparte este men",
+     "likes": 6,
+     "comentarios": 0,
+     "img": "ig/rotaractmoca/DfKovggTt02.webp"
+    },
+    {
+     "code": "DfKn82VTiEG",
+     "url": "https://www.instagram.com/p/DfKn82VTiEG/",
+     "video": true,
+     "album": false,
+     "fecha": "2026-10-31T16:51:55.000Z",
+     "texto": "🎀 Hay mensajes que merecen ser escuchados, compartidos y recordados. Octubre nos invita a mirar más allá del lazo rosa: a reconocer historias de valentía, acompañar con empatía y recordar que cuidar de nuestra salud también es un acto de amor. 💗 Porque cada voz que sensibiliza ",
+     "likes": 18,
+     "comentarios": 0,
+     "img": "ig/rotaractmoca/DfKn82VTiEG.webp"
+    },
     {
      "code": "DfKbilKICif",
      "url": "https://www.instagram.com/p/DfKbilKICif/",
@@ -72,7 +94,7 @@
      "album": true,
      "fecha": "2026-10-31T15:00:03.000Z",
      "texto": "🎀 Conocer tu cuerpo también es una forma de cuidarte. 💕 La autoexploración mamaria te ayuda a familiarizarte con tus senos y reconocer posibles cambios que merecen atención. Dedica unos minutos a conocerte, escucha las señales de tu cuerpo y recuerda que la detección temprana p",
-     "likes": 1,
+     "likes": 8,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfKbilKICif.webp"
     },
@@ -83,31 +105,9 @@
      "album": false,
      "fecha": "2026-10-31T14:10:04.000Z",
      "texto": "🤱🏽✨ ¡La leche materna es mucho más que alimento! Su composición cambia para adaptarse a las necesidades del bebé, aportando nutrientes y anticuerpos que contribuyen a su crecimiento y protección. 💕 Promover información confiable sobre la lactancia materna es también una forma ",
-     "likes": 1,
+     "likes": 4,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfHV812TRjl.webp"
-    },
-    {
-     "code": "DfHV2bGTTPX",
-     "url": "https://www.instagram.com/p/DfHV2bGTTPX/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-10-31T14:05:03.000Z",
-     "texto": "💗🤱🏽 Aprender para cuidar, compartir para transformar. En el marco de la Semana Mundial de la Lactancia Materna, desde el Club Rotaract de Moca llevamos a cabo nuestra charla virtual «Lactancia Materna: Un amor que nutre», el pasado 11 de agosto. Contamos con la valiosa partici",
-     "likes": 5,
-     "comentarios": 1,
-     "img": "ig/rotaractmoca/DfHV2bGTTPX.webp"
-    },
-    {
-     "code": "DfHVuk6T6AB",
-     "url": "https://www.instagram.com/p/DfHVuk6T6AB/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-10-31T14:00:03.000Z",
-     "texto": "🤱🏽💕 Un vínculo que nutre, protege y acompaña. Del 1 al 7 de agosto conmemoramos la Semana Mundial de la Lactancia Materna, una oportunidad para reconocer su importancia en el desarrollo infantil y promover el acompañamiento, la información y el apoyo que cada madre merece. 🌸 ",
-     "likes": 1,
-     "comentarios": 0,
-     "img": "ig/rotaractmoca/DfHVuk6T6AB.webp"
     }
    ]
   },

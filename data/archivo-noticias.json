@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-31T15:54:52.081Z",
- "total": 88,
+ "actualizado": "2026-11-01T16:57:39.473Z",
+ "total": 91,
  "noticias": [
   {
    "titulo": "Licey y Águilas el sábado a beneficio del Club Rotario Garabito",
@@ -915,6 +915,27 @@
    "foto": "img/pacwni.webp"
   },
   {
+   "titulo": "Rotary reconoce 34 damas destacadas por el Día Internacional de la Mujer",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbS1McmdzQUJkMXVsTEU2bDFvRVBYX282U0tFX0k0MDBqRGRIbnRCRXhwVFlCSE50Vk82dGhtLWZfQXVjR0gwcGtqVE9SVkQ4VHZEekxhT2tJNkV3T1NtQTFTX2owQmdETU1XQVMwbEpXX3RUNlkzS3l5NlA1al9vVTRNdkJ4dEtuNUlKLUFEeEdSVHVidUJvek5qMklXVEM4dzY0eg?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2024-03-25T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-01T16:57:38.389Z",
+   "id": "1xogqug",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/rotary-reconoce-34-damas-destacadas-por-el-dia-internacional-de-la-mujer/",
+   "imagen": "https://nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2024/03/25120842/YSABEL-REYES-MARILIS-PEREZ-ANGELA-TEJADA-DE-RODRIGUEZ-RUBEN-GOICO-Y-OLGA-ACOSTA-1200x1200.webp",
+   "resumen": "EL NUEVO DIARIO, SANTO DOMINGO.- El Distrito 4060 de Rotary Internacional conmemoró el Día Internacional de la Mujer, como es tradición, reconociendo damas destacadas en la sociedad dominicana por ser mujeres líderes y sensibles a las necesidades de su comunidad, contribuyendo con su labor a elevar la participación equ",
+   "extracto": [
+    "EL NUEVO DIARIO, SANTO DOMINGO.- El Distrito 4060 de Rotary Internacional conmemoró el Día Internacional de la Mujer, como es tradición, reconociendo damas destacadas en la sociedad dominicana por ser mujeres líderes y sensibles a las necesidades de su comunidad, contribuyendo con su labor a elevar la participación equitativa de la mujer.",
+    "En esta XX versión dedicada a la Rotaria Angela Tejada de Rodríguez, quien ha realizado grandes contribuciones, tanto en su vida profesional, como en el movimiento Rotary en la República Dominicana, fueron reconocidas 34 damas rotarias, rotarianas y de la comunidad.",
+    "Las palabras de bienvenida estuvieron a cargo de la señora Marilis Pérez de Díaz, presidente del Comité Distrital de Premiación a la Mujer, quien luego de agradecer a su comité y todos los presentes, reconoció la labor del de los clubes Rotarios que se unieron en un voto favorable ante el Consejo de Legislación Rotay Internacional para permitir en 1989 la admisión de la mujer en los Clubes Rotarios. Definitivamente que este fue un hecho trascendental en la historia de Rotary, que ha permitido que más de 277,000 mujeres en todo el mundo se inclinen al servicio de sus comunidades a través de los diversos clubes."
+   ],
+   "foto": "img/1xogqug.webp",
+   "intentos": 1,
+   "v": 2
+  },
+  {
    "titulo": "Once años de servicio del Club Rotaract Pimentel",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVBVMEpXS0tTYXpPRld2dXBEQ2tiZVZpNUFoTzcyNmlWTVdNcWNtUXFsZzVVV2FKbXRDcUNhNHBpY0VwZ2pNZzhzQnBNYXJSbEp2ZWFQb1h1MmE0NmlHSWZBTzZwTC1PcEwtSDFnT1lwX3JEUy0xdm9rYWgwR0RGT1RlQQ?oc=5",
    "fuente": "Periódico EL JAYA",
@@ -1225,6 +1246,18 @@
    "v": 2
   },
   {
+   "titulo": "Club Rotario de Santiago celebra sus 75 años",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFVnMGJpbFBCb2NGRFZhZzhTajVyTWtucjZWRHFOQmxaTENjMmZQTFdRNW9vbUF1cERkSEg4T3NuVER5c1BTNzJYRkpWb196V0loSHBOV3BlbzlfYmZUQlYzX25NU3dwTFh6QlFEelhXNTIwZGsySUlDTUxBbUJuRFdkek1DV012emVLcXh4WnJ5UQ?oc=5",
+   "fuente": "elcaribe.com.do",
+   "fecha": "2019-08-09T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-01T16:57:38.389Z",
+   "id": "1ms3s32",
+   "revisado": true,
+   "original": "https://www.elcaribe.com.do/gente/sociales/club-rotario-de-santiago-celebra-sus-75-anos/",
+   "intentos": 1
+  },
+  {
    "titulo": "Club Rotario Barahona reconoce director CONAVIHSIDA Víctor Terrero",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDliNjlsVS1Ncm9nZWZVUVJweXd4TDcwS1Z3RjlSaTJNc1EyRWowNzY1b191RFdNRF9JN1FUVkNwd1k4YU9KcXdWN0FCdmo4bmhQU1hGVkkyemZhMU1OQzlmRlRXX2JhVW1xZEFYOFM4WERFQzk2QVc4RVRwWWNKQzUxcE41RkZiNDhjQ2JvMi1SaUo0VU1SbHc0VTd3Ym43a25wdUxWaXAyMHlfSGtvV2FNWll3Rk5wN0p3WmFwdl9CT1RTQVJjRmVtaw?oc=5",
    "fuente": "vigilante informativo",
@@ -1463,6 +1496,25 @@
    "resumen": "“El evento, el primero en que se lleva a cabo, se realizará del 9 al 11 de mayo en Punta Cana” EL NUEVO DIARIO, SANTO DOMINGO.- La organización mundial Rotary International realizará el Encuentro de Líderes 2018, en esta ocasión, con la participación de 16 países y con asiento en el Centro de Convenciones del [&hellip;",
    "v": 2,
    "foto": "img/37co9f.webp"
+  },
+  {
+   "titulo": "Dr. Núñez Regalado: médico—gineco—obstetra y rotario",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc2tJX0FJWEZQS0NzWjJoTTZEd0JtTWtwcE4tZ3psRHFLMjZtUzdyZzJwRGhxYnNnQWU1bHdYTVZQeV9jbjk2ZGpSazJlZzg4RHpEelpSVDRRc3h0anhaM2lnNDl4dHdkWnNlZDU3Y2dzdmFTa0FjN3ZDYWRwRVhSc3JJTDdVODRNbHRJTnNVZkVJbzJfQ2fSAZYBQVVfeXFMTXNrSV9BSVhGUEtDc1oyaE02RHdCbU1rcHBOLWd6bERxSzI2bVM3cmcycERocWJzZ0FlNWx3WE1WUHlfY245NmRqUmsyZWc4OER6RHpaUlQ0UXN4dGp4WjNpZzQ5eHR3ZFpzZWQ1N2Nnc3ZhU2tBYzd2Q2FkcEVYUnNySUw3VTg0TWx0SU5zVWZFSW8yX0Nn?oc=5",
+   "fuente": "Acento",
+   "fecha": "2017-12-28T08:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-01T16:57:38.389Z",
+   "id": "1o9jq7r",
+   "revisado": true,
+   "original": "https://acento.com.do/opinion/dr-nunez-regalado-medico-gineco-obstetra-rotario-8520649.html",
+   "resumen": "Dr. Núñez Regalado: médico—gineco—obstetra y rotario",
+   "extracto": [
+    "Murió en la ciudad de Santiago de los Caballeros, el sábado 20 de enero del año 2007, a las 2:30 A. M., el connotado médico—gineco—obstetra y rotario doctor José Alberto Núñez Regalado, a la edad de 57 años. Su cadáver fue trasladado, velado y sepultado en el cementerio municipal de Puerto Plata, de ese mismo día, a las 5:00 P. M.",
+    "Con la muerte del doctor Núñez Regalado perdió la ciencia hipocrática, a uno de sus más sobresalientes exponentes en el campo de la ginecología y obstetricia. Ejerció dicha profesión por más de veinticinco años en la ciudad de Puerto Plata, que lo acogió fraternalmente.",
+    "En su larga carrera de médico de más de veinticinco años actuó con la mayor idoneidad y honestidad en el desempeño de sus funciones."
+   ],
+   "intentos": 1,
+   "v": 2
   },
   {
    "titulo": "Dr. Alfonso Reyes: connotado médico—cardiólogo y rotario",
