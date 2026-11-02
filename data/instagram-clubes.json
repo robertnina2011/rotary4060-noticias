@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-01T16:57:51.753Z",
+ "actualizado": "2026-11-02T20:34:50.831Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1200,
+   "seguidores": 1203,
    "total": 926,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -72,7 +72,7 @@
      "album": false,
      "fecha": "2026-10-31T16:56:23.000Z",
      "texto": "🌸 Que nunca se te olvide hacer de tu salud una prioridad. Conoce tus factores de riesgo, presta atención a los cambios de tu cuerpo y mantén al día tus chequeos médicos. Un pequeño recordatorio puede convertirse en una gran diferencia. 🎀 💕 Cuídate, quiérete y comparte este men",
-     "likes": 6,
+     "likes": 7,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfKovggTt02.webp"
     },
@@ -83,7 +83,7 @@
      "album": false,
      "fecha": "2026-10-31T16:51:55.000Z",
      "texto": "🎀 Hay mensajes que merecen ser escuchados, compartidos y recordados. Octubre nos invita a mirar más allá del lazo rosa: a reconocer historias de valentía, acompañar con empatía y recordar que cuidar de nuestra salud también es un acto de amor. 💗 Porque cada voz que sensibiliza ",
-     "likes": 18,
+     "likes": 24,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfKn82VTiEG.webp"
     },
@@ -94,7 +94,7 @@
      "album": true,
      "fecha": "2026-10-31T15:00:03.000Z",
      "texto": "🎀 Conocer tu cuerpo también es una forma de cuidarte. 💕 La autoexploración mamaria te ayuda a familiarizarte con tus senos y reconocer posibles cambios que merecen atención. Dedica unos minutos a conocerte, escucha las señales de tu cuerpo y recuerda que la detección temprana p",
-     "likes": 8,
+     "likes": 9,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfKbilKICif.webp"
     },
@@ -165,7 +165,7 @@
   },
   "clubrotaractsancristobal": {
    "nombre": "ROTARACT CLUB DE SAN CRISTÓBAL",
-   "seguidores": 1358,
+   "seguidores": 1357,
    "total": 674,
    "avatar": "ig/clubrotaractsancristobal/perfil.webp",
    "posts": [
@@ -217,7 +217,7 @@
   },
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
-   "seguidores": 1823,
+   "seguidores": 1824,
    "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
@@ -228,7 +228,7 @@
      "album": false,
      "fecha": "2026-10-24T13:20:32.000Z",
      "texto": "🌍 Un mundo libre de polio es una meta que nos une. En este Día Mundial contra la Polio, desde Rotary Distrito 4060 levantamos nuestra voz por una causa que trasciende fronteras: #EndPolioNow. Décadas de esfuerzo, solidaridad y compromiso nos han acercado a la erradicación de est",
-     "likes": 34,
+     "likes": 35,
      "comentarios": 0,
      "img": "ig/rotarydistrito4060/De4OSLmvPTY.webp"
     },
@@ -269,10 +269,21 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1081,
-   "total": 701,
+   "seguidores": 1083,
+   "total": 702,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
+    {
+     "code": "DfOZ5ZaDdU3",
+     "url": "https://www.instagram.com/p/DfOZ5ZaDdU3/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-02T04:03:34.000Z",
+     "texto": "🌎✨ Una historia que comenzó con jóvenes dispuestos a actuar y que, generación tras generación, sigue transformando comunidades. Interact es mucho más que un club: es un espacio donde las ideas se convierten en proyectos, el liderazgo crece a través del servicio y cada acción cue",
+     "likes": 0,
+     "comentarios": 0,
+     "img": "ig/interact4060/DfOZ5ZaDdU3.webp"
+    },
     {
      "code": "De3Og4vjaVf",
      "url": "https://www.instagram.com/p/De3Og4vjaVf/",
@@ -305,17 +316,6 @@
      "likes": 0,
      "comentarios": 1,
      "img": "ig/interact4060/DdeVJP2xwTy.webp"
-    },
-    {
-     "code": "DdFfxpijItF",
-     "url": "https://www.instagram.com/p/DdFfxpijItF/",
-     "video": false,
-     "album": true,
-     "fecha": "2026-09-09T23:58:59.000Z",
-     "texto": "¡Un fin de semana inolvidable lleno de aprendizaje, crecimiento y nuevas amistades en nuestra Capacitación Distrital de Interact 4060! 📚✨ Nos sentimos renovados e inspirados para seguir marcando la diferencia en nuestras comunidades. ¡Gracias a todos los que lo hicieron posible!",
-     "likes": 0,
-     "comentarios": 3,
-     "img": "ig/interact4060/DdFfxpijItF.webp"
     }
    ]
   }
