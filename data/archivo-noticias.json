@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-02T20:34:36.099Z",
- "total": 94,
+ "actualizado": "2026-11-03T18:10:00.936Z",
+ "total": 95,
  "noticias": [
   {
    "titulo": "FUNDAVER y el Club Rotario Santo Domingo Bella Vista dejaron inaugurada 2da. entrega del proyecto Mini Bibliotecas Comunitarias",
@@ -559,7 +559,7 @@
    "id": "1oibava",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/panorama/educacion/rotary-club-santo-domingo-encabezada-entrega-de-utiles-escolares/",
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "El Club Rotario presentará a la Orquesta Filarmónica Nacional en un evento único en Barahona",
@@ -1226,6 +1226,27 @@
    "v": 2
   },
   {
+   "titulo": "Club Rotario de Tennessee, EEUU, dona prótesis a personas que han perdido manos en Barahona",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnQwN3FOQXpiY21rOGNoMkx6Zk9WTHlJRVd5Wi1FNlpjUVhiUDFHdVhudHNEYWpTeFRiRktZWXVvajFIVmlPYmtSUnJQSkpHbFZ2eDNpa2NhaU1XdFpxUTBHMjFkRHlPMlRNeUY5UXhOVXhEaml6ZFhSTC0zRDNIdE50VzFaYi11TXBrRnJuc1ZVeFFSMGZYc29FYXNoeTh0TTBiRDNJVnhCYk5UZzNuQ0VDcXRGdXNCcW84?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2021-04-28T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-03T18:09:59.880Z",
+   "id": "uwe4sb",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/club-rotario-de-tennessee-eeuu-dona-protesis-a-personas-que-han-perdido-manos-en-barahona/",
+   "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2021/04/28120813/Protesis.jpg?resize=640%2C615&quality=100&ssl=1",
+   "resumen": "EL NUEVO DIARIO, BARAHONA.- Tras una larga espera de 32 años, este martes floreció una nueva esperanza para Julio Ernesto Pérez Matos, de 57 años, al recibir una prótesis patrocinada por el Club Rotario de la ciudad de Chattanooga del estado Tennessee, Estados Unidos colaborando con y el proyecto ONG LN-4 Hand Project ",
+   "extracto": [
+    "EL NUEVO DIARIO, BARAHONA.- Tras una larga espera de 32 años, este martes floreció una nueva esperanza para Julio Ernesto Pérez Matos, de 57 años, al recibir una prótesis patrocinada por el Club Rotario de la ciudad de Chattanooga del estado Tennessee, Estados Unidos colaborando con y el proyecto ONG LN-4 Hand Project de California.",
+    "La triste historia Pérez Matos, técnico de reparación de abanicos, se enmarca al 1989 cuando perdió su mano izquierda de un machetazo cuando fue a la casa de un cliente reclamar el pago de una reparación de un abanico.",
+    "La doctora de Antropología, Catherine Colby, encargada de Proyectos Internacionales de Club Rotario de Chattanooga, explicó que en esta primera etapa tienen proyectado donar varias prótesis a personas necesitadas de una mano en Barahona y varias comarcas cercanas como forma de ayuda humanitaria."
+   ],
+   "foto": "img/uwe4sb.webp",
+   "intentos": 1,
+   "v": 2
+  },
+  {
    "titulo": "Club Rotario Santo Domingo Bella Vista pre inaugura taller de costura",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWl5VC1WY3hRekV0STlBUEZ5dVhsakllUHVSbkxzMl96eDJNV01vU2JOMUVMWFdlMU1Xc1J2bExzR3VERFItTFl5ZkJ3THpsZWtSUmdZNER6RTJZa3YyNlJka3hDclVpRDRiT0kyTnBqX24zUkJnRkpIVVFpODN4MnM0a1FkRlVDMjE4RWtpdGNRSnZaY3hQdHpHUW54RkZONHdz?oc=5",
    "fuente": "Periódico elDinero",
@@ -1307,7 +1328,7 @@
    "id": "1ms3s32",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/gente/sociales/club-rotario-de-santiago-celebra-sus-75-anos/",
-   "intentos": 2
+   "intentos": 3
   },
   {
    "titulo": "Club Rotario Barahona reconoce director CONAVIHSIDA Víctor Terrero",
