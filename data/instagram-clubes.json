@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T18:10:17.046Z",
+ "actualizado": "2026-11-04T18:20:53.080Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1203,
+   "seguidores": 1202,
    "total": 926,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -83,7 +83,7 @@
      "album": false,
      "fecha": "2026-10-31T16:51:55.000Z",
      "texto": "🎀 Hay mensajes que merecen ser escuchados, compartidos y recordados. Octubre nos invita a mirar más allá del lazo rosa: a reconocer historias de valentía, acompañar con empatía y recordar que cuidar de nuestra salud también es un acto de amor. 💗 Porque cada voz que sensibiliza ",
-     "likes": 26,
+     "likes": 27,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfKn82VTiEG.webp"
     },
@@ -217,7 +217,7 @@
   },
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
-   "seguidores": 1823,
+   "seguidores": 1822,
    "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
@@ -269,7 +269,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1081,
+   "seguidores": 1079,
    "total": 702,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
