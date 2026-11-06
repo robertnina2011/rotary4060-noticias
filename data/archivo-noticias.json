@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05T18:23:41.219Z",
+ "actualizado": "2026-11-06T17:44:29.098Z",
  "total": 95,
  "noticias": [
   {
@@ -559,7 +559,8 @@
    "id": "1oibava",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/panorama/educacion/rotary-club-santo-domingo-encabezada-entrega-de-utiles-escolares/",
-   "intentos": 4
+   "intentos": 5,
+   "v": 2
   },
   {
    "titulo": "El Club Rotario presentará a la Orquesta Filarmónica Nacional en un evento único en Barahona",
