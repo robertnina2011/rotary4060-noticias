@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T18:38:50.649Z",
+ "actualizado": "2026-11-13T18:17:50.843Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,10 +61,43 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1204,
-   "total": 929,
+   "seguidores": 1207,
+   "total": 932,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
+    {
+     "code": "DfqQfgfsf0n",
+     "url": "https://www.instagram.com/p/DfqQfgfsf0n/",
+     "video": true,
+     "album": false,
+     "fecha": "2026-11-12T23:40:04.000Z",
+     "texto": "❤️ El final de la polio está en nuestras manos. Estamos cada vez más cerca de alcanzar uno de los mayores logros de la salud pública: erradicar la poliomielitis del mundo. 🌍 Pero la lucha aún no termina. Cada niño vacunado representa una oportunidad. Cada persona que se suma rep",
+     "likes": 2,
+     "comentarios": 0,
+     "img": "ig/rotaractmoca/DfqQfgfsf0n.webp"
+    },
+    {
+     "code": "DfqP9gOMf5l",
+     "url": "https://www.instagram.com/p/DfqP9gOMf5l/",
+     "video": true,
+     "album": false,
+     "fecha": "2026-11-12T23:35:04.000Z",
+     "texto": "🌍❤️ Estamos a un paso. Pero aún no hemos llegado. Durante décadas, la poliomielitis cambió la vida de miles de familias. Hoy, gracias a la vacunación y al esfuerzo de organizaciones como Rotary International, estamos más cerca que nunca de ponerle fin. Pero mientras exista un so",
+     "likes": 16,
+     "comentarios": 2,
+     "img": "ig/rotaractmoca/DfqP9gOMf5l.webp"
+    },
+    {
+     "code": "DfqPclss7Ab",
+     "url": "https://www.instagram.com/p/DfqPclss7Ab/",
+     "video": true,
+     "album": false,
+     "fecha": "2026-11-12T23:30:05.000Z",
+     "texto": "💜🌍 Una causa. Millones de vidas. Décadas de compromiso. Desde 1985, Rotary International, a través de PolioPlus, ha sido parte fundamental de la lucha mundial contra la poliomielitis. Gracias al trabajo conjunto de voluntarios, profesionales de la salud y organizaciones aliadas",
+     "likes": 4,
+     "comentarios": 0,
+     "img": "ig/rotaractmoca/DfqPclss7Ab.webp"
+    },
     {
      "code": "Dfe4aoJTd4s",
      "url": "https://www.instagram.com/p/Dfe4aoJTd4s/",
@@ -75,45 +108,12 @@
      "likes": 5,
      "comentarios": 0,
      "img": "ig/rotaractmoca/Dfe4aoJTd4s.webp"
-    },
-    {
-     "code": "Dfe4BlbzUra",
-     "url": "https://www.instagram.com/p/Dfe4BlbzUra/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-11-08T15:00:06.000Z",
-     "texto": "🍽️✨ ¡Una cena que puede convertirse en esperanza! Gracias a Valentino Restaurant por sumarse a nuestra Rifa Solidaria por un Mundo Sin Polio, aportando una experiencia especial para dos personas. ❤️ Porque cuando las empresas se unen a las causas que transforman vidas, la solida",
-     "likes": 7,
-     "comentarios": 0,
-     "img": "ig/rotaractmoca/Dfe4BlbzUra.webp"
-    },
-    {
-     "code": "DfKovggTt02",
-     "url": "https://www.instagram.com/p/DfKovggTt02/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-10-31T16:56:23.000Z",
-     "texto": "🌸 Que nunca se te olvide hacer de tu salud una prioridad. Conoce tus factores de riesgo, presta atención a los cambios de tu cuerpo y mantén al día tus chequeos médicos. Un pequeño recordatorio puede convertirse en una gran diferencia. 🎀 💕 Cuídate, quiérete y comparte este men",
-     "likes": 7,
-     "comentarios": 0,
-     "img": "ig/rotaractmoca/DfKovggTt02.webp"
-    },
-    {
-     "code": "DfKn82VTiEG",
-     "url": "https://www.instagram.com/p/DfKn82VTiEG/",
-     "video": true,
-     "album": false,
-     "fecha": "2026-10-31T16:51:55.000Z",
-     "texto": "🎀 Hay mensajes que merecen ser escuchados, compartidos y recordados. Octubre nos invita a mirar más allá del lazo rosa: a reconocer historias de valentía, acompañar con empatía y recordar que cuidar de nuestra salud también es un acto de amor. 💗 Porque cada voz que sensibiliza ",
-     "likes": 28,
-     "comentarios": 1,
-     "img": "ig/rotaractmoca/DfKn82VTiEG.webp"
     }
    ]
   },
   "rotaryclubsancristobal": {
    "nombre": "Club Rotario San Cristóbal",
-   "seguidores": 969,
+   "seguidores": 968,
    "total": 337,
    "avatar": "ig/rotaryclubsancristobal/perfil.webp",
    "posts": [
@@ -269,7 +269,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1079,
+   "seguidores": 1078,
    "total": 703,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
