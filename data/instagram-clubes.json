@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T18:17:50.843Z",
+ "actualizado": "2026-11-14T16:47:15.048Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1207,
+   "seguidores": 1206,
    "total": 932,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -83,7 +83,7 @@
      "album": false,
      "fecha": "2026-11-12T23:35:04.000Z",
      "texto": "🌍❤️ Estamos a un paso. Pero aún no hemos llegado. Durante décadas, la poliomielitis cambió la vida de miles de familias. Hoy, gracias a la vacunación y al esfuerzo de organizaciones como Rotary International, estamos más cerca que nunca de ponerle fin. Pero mientras exista un so",
-     "likes": 16,
+     "likes": 18,
      "comentarios": 2,
      "img": "ig/rotaractmoca/DfqP9gOMf5l.webp"
     },
@@ -269,7 +269,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1078,
+   "seguidores": 1077,
    "total": 703,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
