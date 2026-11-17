@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T20:44:48.018Z",
+ "actualizado": "2026-11-17T19:29:50.397Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,10 +61,43 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1205,
-   "total": 932,
+   "seguidores": 1206,
+   "total": 935,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
+    {
+     "code": "Df0jvN0IAV0",
+     "url": "https://www.instagram.com/p/Df0jvN0IAV0/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-16T23:40:01.000Z",
+     "texto": "✨ ¡Unidos por un mismo propósito! El pasado 31 de octubre recibimos con mucha alegría la visita de nuestra Representante Distrital de Rotaract, Nicole Díaz, con quien compartimos una valiosa mesa de trabajo, intercambiando ideas, conversando sobre nuestros proyectos y reafirmando",
+     "likes": 14,
+     "comentarios": 2,
+     "img": "ig/rotaractmoca/Df0jvN0IAV0.webp"
+    },
+    {
+     "code": "Df0jLcFoLRT",
+     "url": "https://www.instagram.com/p/Df0jLcFoLRT/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-16T23:35:00.000Z",
+     "texto": "💕 ¡Nuestra familia sigue creciendo! Seguimos sumando corazones dispuestos a servir y manos comprometidas con transformar nuestra comunidad. 🫶🏽 Hoy celebramos con mucha alegría la incorporación de Elvia García a nuestra familia Rotaract. ✨ Gracias, Elvia, por decir que sí al se",
+     "likes": 20,
+     "comentarios": 3,
+     "img": "ig/rotaractmoca/Df0jLcFoLRT.webp"
+    },
+    {
+     "code": "Df0iiinoNW9",
+     "url": "https://www.instagram.com/p/Df0iiinoNW9/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-16T23:30:00.000Z",
+     "texto": "✨ ¡Conectando para generar un impacto duradero! El pasado sábado 17 de octubre, el Club Rotaract de Moca tuvo el honor de compartir un enriquecedor encuentro con el Gobernador del Distrito Rotario 4060, Juan Osvaldo Olguín, y su esposa, Paola Rosado, en el marco de su visita a la",
+     "likes": 12,
+     "comentarios": 0,
+     "img": "ig/rotaractmoca/Df0iiinoNW9.webp"
+    },
     {
      "code": "DfqQfgfsf0n",
      "url": "https://www.instagram.com/p/DfqQfgfsf0n/",
@@ -75,39 +108,6 @@
      "likes": 2,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfqQfgfsf0n.webp"
-    },
-    {
-     "code": "DfqP9gOMf5l",
-     "url": "https://www.instagram.com/p/DfqP9gOMf5l/",
-     "video": true,
-     "album": false,
-     "fecha": "2026-11-12T23:35:04.000Z",
-     "texto": "🌍❤️ Estamos a un paso. Pero aún no hemos llegado. Durante décadas, la poliomielitis cambió la vida de miles de familias. Hoy, gracias a la vacunación y al esfuerzo de organizaciones como Rotary International, estamos más cerca que nunca de ponerle fin. Pero mientras exista un so",
-     "likes": 18,
-     "comentarios": 2,
-     "img": "ig/rotaractmoca/DfqP9gOMf5l.webp"
-    },
-    {
-     "code": "DfqPclss7Ab",
-     "url": "https://www.instagram.com/p/DfqPclss7Ab/",
-     "video": true,
-     "album": false,
-     "fecha": "2026-11-12T23:30:05.000Z",
-     "texto": "💜🌍 Una causa. Millones de vidas. Décadas de compromiso. Desde 1985, Rotary International, a través de PolioPlus, ha sido parte fundamental de la lucha mundial contra la poliomielitis. Gracias al trabajo conjunto de voluntarios, profesionales de la salud y organizaciones aliadas",
-     "likes": 5,
-     "comentarios": 0,
-     "img": "ig/rotaractmoca/DfqPclss7Ab.webp"
-    },
-    {
-     "code": "Dfe4aoJTd4s",
-     "url": "https://www.instagram.com/p/Dfe4aoJTd4s/",
-     "video": false,
-     "album": false,
-     "fecha": "2026-11-08T15:10:05.000Z",
-     "texto": "🎧❤️ ¡La solidaridad también se escucha! Agradecemos a Tucell por decir presente en nuestra Rifa Solidaria por un Mundo Sin Polio, aportando dos audífonos inalámbricos que formarán parte de nuestros premios. 🙌🏽 Cada colaboración nos acerca un poquito más a nuestra meta: contrib",
-     "likes": 5,
-     "comentarios": 0,
-     "img": "ig/rotaractmoca/Dfe4aoJTd4s.webp"
     }
    ]
   },
@@ -217,7 +217,7 @@
   },
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
-   "seguidores": 1826,
+   "seguidores": 1827,
    "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
