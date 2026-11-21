@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T18:55:02.447Z",
+ "actualizado": "2026-11-21T17:49:45.793Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1205,
+   "seguidores": 1203,
    "total": 935,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -113,7 +113,7 @@
   },
   "rotaryclubsancristobal": {
    "nombre": "Club Rotario San Cristóbal",
-   "seguidores": 972,
+   "seguidores": 973,
    "total": 337,
    "avatar": "ig/rotaryclubsancristobal/perfil.webp",
    "posts": [
@@ -269,7 +269,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1077,
+   "seguidores": 1075,
    "total": 703,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
