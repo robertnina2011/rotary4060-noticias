@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T20:55:59.624Z",
+ "actualizado": "2026-11-25T20:18:33.474Z",
  "total": 106,
  "noticias": [
   {
@@ -295,7 +295,7 @@
    "id": "107h30e",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/panorama/pais/rotary-santo-domingo-quisqueya-remozo-area-deportiva-en-escuela/",
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Clubes Rotarios Bella Vista y Mirador promueven pensamiento crítico con conferencia de Iván Gatón",
@@ -431,7 +431,7 @@
    "id": "ijq684",
    "revisado": true,
    "original": "https://www.eldiario.ec/manabi/alianza-entre-municipio-y-club-rotary-capacita-a-mujeres-para-hacer-jabones-artesanales-10022026/",
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "(VIDEO) Club Rotario SD Mirador celebra 51 años de servicio comunitario",
@@ -464,7 +464,7 @@
    "id": "1p8efle",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/gente/rotary-club-santo-domingo-quisqueya-entrega-juguetes-a-mas-de-400-ninos-en-los-casabes/",
-   "intentos": 1
+   "intentos": 2
   },
   {
    "titulo": "Rotary lleva sonrisas y esperanza a niños en Santo Domingo",
@@ -1770,7 +1770,7 @@
    "id": "10itnyh",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/gente/estilo/unibe-firma-acuerdo-club-rotario-santo-domingo-herrera/",
-   "intentos": 2
+   "intentos": 3
   },
   {
    "titulo": "Club Rotario Moca 2 de Mayo promueve campaña en favor de la lactancia materna",
@@ -1823,7 +1823,16 @@
    "visto": "2026-11-24T20:55:58.269Z",
    "id": "1s5coh8",
    "revisado": true,
-   "intentos": 1
+   "intentos": 2,
+   "original": "https://www.diariolibre.com/estilos/sociales/rotary-reafirma-compromiso-social-DL4591014",
+   "imagen": "https://resources.diariolibre.com/images/documents/10157/0/image_content_7029214_20160807180203-focus-0-0-608-342_wam.jpg",
+   "resumen": "SD. El Club Rotary Santo Domingo Bella Vista juramentó la directiva que regirá esa organización durante 2016-2017, dedicado a la poeta dominicana Marí...",
+   "extracto": [
+    "--> SD. El Club Rotary Santo Domingo Bella Vista juramentó la directiva que regirá esa organización durante 2016-2017, dedicado a la poeta dominicana María Cristina Mere de Farías, su socia fundadora.",
+    "--> La nueva junta está presidida por Cristian Leguizamón, juramentado por el gobernador del Distrito 4060, Roberto Ortiz. En sus palabras, Leguizamón resaltó su compromiso de promover la paz, la unidad, la solidaridad, el compañerismo, y continuar con proyectos de servicios a favor de la humanidad."
+   ],
+   "foto": "img/1s5coh8.webp",
+   "v": 2
   },
   {
    "titulo": "El Rotary Club Santo Domingo Mirador elige nueva directiva",
