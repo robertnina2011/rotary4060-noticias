@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T02:12:43.458Z",
+ "actualizado": "2026-11-26T19:55:28.243Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -61,7 +61,7 @@
   },
   "rotaractmoca": {
    "nombre": "Rotaract Club de Moca | Distrito 4060",
-   "seguidores": 1204,
+   "seguidores": 1205,
    "total": 935,
    "avatar": "ig/rotaractmoca/perfil.webp",
    "posts": [
@@ -113,7 +113,7 @@
   },
   "rotaryclubsancristobal": {
    "nombre": "Club Rotario San Cristóbal",
-   "seguidores": 974,
+   "seguidores": 973,
    "total": 337,
    "avatar": "ig/rotaryclubsancristobal/perfil.webp",
    "posts": [
@@ -217,7 +217,7 @@
   },
   "rotarydistrito4060": {
    "nombre": "Rotary 4060 - República Dominicana",
-   "seguidores": 1828,
+   "seguidores": 1826,
    "total": 694,
    "avatar": "ig/rotarydistrito4060/perfil.webp",
    "posts": [
@@ -269,7 +269,7 @@
   },
   "rotaract4060": {
    "nombre": "Rotaract Distrito 4060 - República Dominicana 🇩🇴",
-   "seguidores": 3166,
+   "seguidores": 3165,
    "total": 2490,
    "avatar": "ig/rotaract4060/perfil.webp",
    "posts": [
@@ -321,7 +321,7 @@
   },
   "interact4060": {
    "nombre": "Interact 4060",
-   "seguidores": 1074,
+   "seguidores": 1073,
    "total": 703,
    "avatar": "ig/interact4060/perfil.webp",
    "posts": [
