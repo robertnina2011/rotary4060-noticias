@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T20:18:46.492Z",
+ "actualizado": "2026-11-26T02:12:43.458Z",
  "clubes": {
   "cotui": "rotaryclubcotui",
   "moca-2": "rotaractmoca",
@@ -72,7 +72,7 @@
      "album": true,
      "fecha": "2026-11-16T23:40:01.000Z",
      "texto": "✨ ¡Unidos por un mismo propósito! El pasado 31 de octubre recibimos con mucha alegría la visita de nuestra Representante Distrital de Rotaract, Nicole Díaz, con quien compartimos una valiosa mesa de trabajo, intercambiando ideas, conversando sobre nuestros proyectos y reafirmando",
-     "likes": 15,
+     "likes": 16,
      "comentarios": 2,
      "img": "ig/rotaractmoca/Df0jvN0IAV0.webp"
     },
@@ -83,7 +83,7 @@
      "album": true,
      "fecha": "2026-11-16T23:35:00.000Z",
      "texto": "💕 ¡Nuestra familia sigue creciendo! Seguimos sumando corazones dispuestos a servir y manos comprometidas con transformar nuestra comunidad. 🫶🏽 Hoy celebramos con mucha alegría la incorporación de Elvia García a nuestra familia Rotaract. ✨ Gracias, Elvia, por decir que sí al se",
-     "likes": 23,
+     "likes": 24,
      "comentarios": 3,
      "img": "ig/rotaractmoca/Df0jLcFoLRT.webp"
     },
@@ -94,7 +94,7 @@
      "album": true,
      "fecha": "2026-11-16T23:30:00.000Z",
      "texto": "✨ ¡Conectando para generar un impacto duradero! El pasado sábado 17 de octubre, el Club Rotaract de Moca tuvo el honor de compartir un enriquecedor encuentro con el Gobernador del Distrito Rotario 4060, Juan Osvaldo Olguín, y su esposa, Paola Rosado, en el marco de su visita a la",
-     "likes": 15,
+     "likes": 16,
      "comentarios": 1,
      "img": "ig/rotaractmoca/Df0iiinoNW9.webp"
     },
@@ -105,7 +105,7 @@
      "album": false,
      "fecha": "2026-11-12T23:40:04.000Z",
      "texto": "❤️ El final de la polio está en nuestras manos. Estamos cada vez más cerca de alcanzar uno de los mayores logros de la salud pública: erradicar la poliomielitis del mundo. 🌍 Pero la lucha aún no termina. Cada niño vacunado representa una oportunidad. Cada persona que se suma rep",
-     "likes": 2,
+     "likes": 3,
      "comentarios": 0,
      "img": "ig/rotaractmoca/DfqQfgfsf0n.webp"
     }
@@ -264,6 +264,58 @@
      "likes": 27,
      "comentarios": 0,
      "img": "ig/rotarydistrito4060/Ddkfw_7RKdq.webp"
+    }
+   ]
+  },
+  "rotaract4060": {
+   "nombre": "Rotaract Distrito 4060 - República Dominicana 🇩🇴",
+   "seguidores": 3166,
+   "total": 2490,
+   "avatar": "ig/rotaract4060/perfil.webp",
+   "posts": [
+    {
+     "code": "DgC2cbmJeQG",
+     "url": "https://www.instagram.com/p/DgC2cbmJeQG/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-22T12:53:32.000Z",
+     "texto": "🎶 La música tiene el poder de expresar lo que las palabras no siempre consiguen decir. Detrás de cada melodía hay talento, pasión, disciplina y una historia que merece ser escuchada. Hoy celebramos a quienes, a través de sus instrumentos convierten emociones en arte y hacen de l",
+     "likes": 38,
+     "comentarios": 5,
+     "img": "ig/rotaract4060/DgC2cbmJeQG.webp"
+    },
+    {
+     "code": "DgAZv-WDYCB",
+     "url": "https://www.instagram.com/p/DgAZv-WDYCB/",
+     "video": false,
+     "album": false,
+     "fecha": "2026-11-21T14:04:53.000Z",
+     "texto": "Este 23 de noviembre nos unimos al foro “Infancia sin Fronteras”, convocado por Rotaract Distrito 4060, para conversar sobre la protección integral y la promoción de los derechos de la niñez. Durante el foro se abordarán cinco ejes temáticos: 🟠 Protección integral de la niñez: a",
+     "likes": 0,
+     "comentarios": 1,
+     "img": "ig/rotaract4060/DgAZv-WDYCB.webp"
+    },
+    {
+     "code": "Df7Tl_TEfx-",
+     "url": "https://www.instagram.com/p/Df7Tl_TEfx-/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-19T14:34:19.000Z",
+     "texto": "🇩🇴 Hay experiencias que se disfrutan, pero hay otras que se convierten en historias para toda la vida. ¿Has escuchado hablar del Trip Dominicano? 👀 Más que un viaje, es una oportunidad para conectar con rotaractianos de diferentes lugares, descubrir la riqueza de nuestra cultu",
+     "likes": 43,
+     "comentarios": 1,
+     "img": "ig/rotaract4060/Df7Tl_TEfx-.webp"
+    },
+    {
+     "code": "DfgUBwPAM4c",
+     "url": "https://www.instagram.com/p/DfgUBwPAM4c/",
+     "video": false,
+     "album": true,
+     "fecha": "2026-11-09T02:58:37.000Z",
+     "texto": "🌎💙 ¡NO TIENES QUE ESPERAR PARA CAMBIAR EL MUNDO! Miles de jóvenes alrededor del mundo ya están demostrando que el liderazgo, la amistad y el servicio pueden transformar comunidades. 🤝 En Interact y Rotaract puedes conocer personas, desarrollar tus habilidades, vivir nuevas exp",
+     "likes": 46,
+     "comentarios": 1,
+     "img": "ig/rotaract4060/DfgUBwPAM4c.webp"
     }
    ]
   },
