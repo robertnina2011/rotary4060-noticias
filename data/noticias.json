@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T19:55:13.422Z",
+ "actualizado": "2026-11-27T19:43:38.598Z",
  "vigentes": [
   {
    "titulo": "Gestión de documentos para la Conferencia Distrital en alta mar",
@@ -38,7 +38,7 @@
    "fuente": "rotary4060.org",
    "fecha": "2026-11-26T14:44:31.000Z",
    "resumen": "El proyecto estrella del distrito: stands, networking y charlas empresariales para impulsar a los emprendedores rotaractianos. Domingo 25 de abril de 2027.",
-   "imagen": null,
+   "imagen": "https://rotary4060.org/wp-content/uploads/2026/11/ra-g-cumbre-taller.webp",
    "contenido": "<p>El proyecto estrella del distrito: stands, networking y charlas empresariales para impulsar a los emprendedores rotaractianos. Domingo 25 de abril de 2027.</p>",
    "tipo": "distrito",
    "visto": "2026-11-26T19:55:10.480Z",
@@ -127,6 +127,21 @@
    "v": 2
   },
   {
+   "titulo": "Seminario sobre la No Violencia hacia la Mujer",
+   "url": "https://rotary4060.org/2026/11/seminario-de-la-no-violencia-contra-la-mujer/",
+   "fuente": "rotary4060.org",
+   "fecha": "2026-11-26T14:44:29.000Z",
+   "resumen": "El Comité Facilitador de Aprendizaje de Rotaract Distrito 4060, junto a Servicio Internacional, realiza el Seminario de la No Violencia contra la Mujer el sábado 28 de noviembre. Una jornada para formarnos y actuar…",
+   "imagen": null,
+   "contenido": "<p>El Comité Facilitador de Aprendizaje de Rotaract Distrito 4060, junto a Servicio Internacional, realiza el Seminario de la No Violencia contra la Mujer el sábado 28 de noviembre.</p> <p>Una jornada para formarnos y actuar frente a la violencia de género. Participa con tu club.</p>",
+   "tipo": "distrito",
+   "visto": "2026-11-27T19:43:35.885Z",
+   "id": "kn6d0b",
+   "revisado": true,
+   "intentos": 1,
+   "v": 2
+  },
+  {
    "titulo": "CONFERENCIA 2027 – Aun no estas inscrito?",
    "url": "https://rotary4060.org/2026/11/conferencia-2027-aun-no-estas-inscrito/",
    "fuente": "rotary4060.org",
@@ -181,27 +196,6 @@
    "foto": "img/8r4z3p.webp",
    "intentos": 1,
    "v": 2
-  },
-  {
-   "titulo": "Licey y Águilas el sábado a beneficio del Club Rotario Garabito",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTE5BY1JmR2hZRVlrU2JFc1ZpdjZPWkYxQmlURFQwUE5ueHVkMkltTXpsUWtVUGxqUTRXaUtMVlpNZkQ1Tm5zOG0xYnJHcl8wOU1TSGxQN2VKVFd0bThESXlNR0hUVXZqOUROMnd6QmlESkxFLTZCUEJIU2JXd0NuMnBfaWRPR3JjaV9JeHRqcmZoaVpqU2dqUTZFMA?oc=5",
-   "fuente": "Momento Deportivo RD",
-   "fecha": "2026-10-04T07:00:00.000Z",
-   "tipo": "prensa",
-   "visto": "2026-10-20T15:30:46.549Z",
-   "id": "kny6eg",
-   "revisado": true,
-   "original": "https://momentodeportivord.com/licey-y-aguilas-el-sabado-a-beneficio-del-club-rotario-garabito/",
-   "imagen": "https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2026/10/Foto-Juan-Ramon-Reyes-e1791137754130.jpg?resize=480%2C487&ssl=1",
-   "resumen": "El club Ratario Garabito construye obras benéficas en sectores pobres con la recaudación de esos juegos.",
-   "v": 2,
-   "extracto": [
-    "El club Ratario Garabito construye obras benéficas en sectores pobres con la recaudación de esos juegos.",
-    "Los empresarios y fanáticos deben apoyar el partido que el próximo sábado jugarán los Tigres del Licey y las Aguilas Cibaeñas en el estadio Cibao.",
-    "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*",
-    "Es el tradicional encuentro que organiza el Club Rotario Santiago Gurabito, siempre por una buena causa en beneficio de un segmento de la población."
-   ],
-   "foto": "img/kny6eg.webp"
   }
  ]
 }

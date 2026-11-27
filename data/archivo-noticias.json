@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-26T19:55:13.422Z",
- "total": 117,
+ "actualizado": "2026-11-27T19:43:38.598Z",
+ "total": 120,
  "noticias": [
   {
    "titulo": "Gestión de documentos para la Conferencia Distrital en alta mar",
@@ -39,7 +39,7 @@
    "fuente": "rotary4060.org",
    "fecha": "2026-11-26T14:44:31.000Z",
    "resumen": "El proyecto estrella del distrito: stands, networking y charlas empresariales para impulsar a los emprendedores rotaractianos. Domingo 25 de abril de 2027.",
-   "imagen": null,
+   "imagen": "https://rotary4060.org/wp-content/uploads/2026/11/ra-g-cumbre-taller.webp",
    "contenido": "<p>El proyecto estrella del distrito: stands, networking y charlas empresariales para impulsar a los emprendedores rotaractianos. Domingo 25 de abril de 2027.</p>",
    "tipo": "distrito",
    "visto": "2026-11-26T19:55:10.480Z",
@@ -128,6 +128,21 @@
    "v": 2
   },
   {
+   "titulo": "Seminario sobre la No Violencia hacia la Mujer",
+   "url": "https://rotary4060.org/2026/11/seminario-de-la-no-violencia-contra-la-mujer/",
+   "fuente": "rotary4060.org",
+   "fecha": "2026-11-26T14:44:29.000Z",
+   "resumen": "El Comité Facilitador de Aprendizaje de Rotaract Distrito 4060, junto a Servicio Internacional, realiza el Seminario de la No Violencia contra la Mujer el sábado 28 de noviembre. Una jornada para formarnos y actuar…",
+   "imagen": null,
+   "contenido": "<p>El Comité Facilitador de Aprendizaje de Rotaract Distrito 4060, junto a Servicio Internacional, realiza el Seminario de la No Violencia contra la Mujer el sábado 28 de noviembre.</p> <p>Una jornada para formarnos y actuar frente a la violencia de género. Participa con tu club.</p>",
+   "tipo": "distrito",
+   "visto": "2026-11-27T19:43:35.885Z",
+   "id": "kn6d0b",
+   "revisado": true,
+   "intentos": 1,
+   "v": 2
+  },
+  {
    "titulo": "CONFERENCIA 2027 – Aun no estas inscrito?",
    "url": "https://rotary4060.org/2026/11/conferencia-2027-aun-no-estas-inscrito/",
    "fuente": "rotary4060.org",
@@ -180,6 +195,29 @@
     "La actividad se realizó el miércoles 21 de octubre de 2026, en el centro ubicado en el kilómetro 11½ de la carretera Sánchez, en Santo Domingo, con la participación de Verónica Sención, representante de Fundaver ; Ana Divi Arbaje, presidenta del Club Rotario Santo Domingo Bella Vista, y el padre Jude Jojy, director del Hogar Escuela."
    ],
    "foto": "img/8r4z3p.webp",
+   "intentos": 1,
+   "v": 2
+  },
+  {
+   "titulo": "Tigres y Águilas en Juego Benéfico del Club Rotario Santiago Gurabito",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZENNV1pMQjJKeEp0TDBpbTJ6eE5jeVpMNkZhUXhPd1RlN3dxd1VYNjNySU1KZXRMSTVVRkdqQTlKdVdkektEeElDaEFDWWlLQ0pRdV95Wldpdi16c0N0RXhOeU1PM2dkRk1Fb3pnQ0FnRkJGZEZNX25Sd2VKUXJtZFFNeU1kalJ5X0dXTE5kSGNwSzlpTjR6YXBYMk9PTENNTWdJ?oc=5",
+   "fuente": "Momento Deportivo RD",
+   "fecha": "2026-10-08T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-27T19:43:35.885Z",
+   "id": "k3bxio",
+   "revisado": true,
+   "original": "https://momentodeportivord.com/tigres-y-aguilas-en-juego-benefico-del-club-rotario-santiago-gurabito/",
+   "imagen": "https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2026/10/Foto-Papi-Bisono.jpg?fit=1280%2C854&ssl=1",
+   "resumen": "El encuentro dedicado al periodista Héctor García comenzará a las 2:00 de la tarde, con una ceremonia previa una hora antes a la 1:00.",
+   "extracto": [
+    "El encuentro dedicado al periodista Héctor García comenzará a las 2:00 de la tarde, con una ceremonia previa una hora antes a la 1:00.",
+    "SANTIAGO.- La rivalidad de los Tigres del Licey y las Águilas Cibaeñas llegará este sábado 10 de octubre al estadio Cibao, para el juego benéfico que organiza el Club Rotario Santiago Gurabito.",
+    "El encuentro dedicado al periodista Héctor García comenzará a las 2:00 de la tarde, con una ceremonia previa una hora antes a la 1:00.",
+    "Ambos equipos dan los toques finales a su preparación, para el torneo que arranca el 16 de este mes.",
+    "El encuentro del sábado será el número 40 que organiza el Club Rotario Santiago Gurabito, con el cual han podido construir varias obras de necesidad para personas de escasos recursos."
+   ],
+   "foto": "img/k3bxio.webp",
    "intentos": 1,
    "v": 2
   },
@@ -436,7 +474,8 @@
    "id": "107h30e",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/panorama/pais/rotary-santo-domingo-quisqueya-remozo-area-deportiva-en-escuela/",
-   "intentos": 4
+   "intentos": 5,
+   "v": 2
   },
   {
    "titulo": "Clubes Rotarios Bella Vista y Mirador promueven pensamiento crítico con conferencia de Iván Gatón",
@@ -572,7 +611,8 @@
    "id": "ijq684",
    "revisado": true,
    "original": "https://www.eldiario.ec/manabi/alianza-entre-municipio-y-club-rotary-capacita-a-mujeres-para-hacer-jabones-artesanales-10022026/",
-   "intentos": 4
+   "intentos": 5,
+   "v": 2
   },
   {
    "titulo": "(VIDEO) Club Rotario SD Mirador celebra 51 años de servicio comunitario",
@@ -605,7 +645,8 @@
    "id": "1p8efle",
    "revisado": true,
    "original": "https://www.elcaribe.com.do/gente/rotary-club-santo-domingo-quisqueya-entrega-juguetes-a-mas-de-400-ninos-en-los-casabes/",
-   "intentos": 4
+   "intentos": 5,
+   "v": 2
   },
   {
    "titulo": "Rotary lleva sonrisas y esperanza a niños en Santo Domingo",
@@ -1942,6 +1983,28 @@
    "resumen": "Todas las noticias del acontecer nacional de la República Dominicana y el resto del mundo.",
    "v": 2,
    "foto": "img/161ahy2.webp"
+  },
+  {
+   "titulo": "Fundación Rotaria realiza seminarios y reconoce labor de Rafaela Pérez",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFFVTDhVdHpmYUpaMkJqUEJfU05zY19HNkw3U3NzLW1SazZxOTBib0RKRk90em8zTDYzM095OG5PN20wVkZybGxLeG04eGxJVkRoeTdTc3RzUVlQVHdYZlZHbnp0MVdOUjZGeDFnZkFUQlpfOXZPbGxjZHNsYVNucHBLQ2FwZXNVMW1qZnlnUEZEdnZYd0ItMzdRYw?oc=5",
+   "fuente": "El Nuevo Diario",
+   "fecha": "2017-10-05T07:00:00.000Z",
+   "tipo": "prensa",
+   "visto": "2026-11-27T19:43:35.885Z",
+   "id": "19s4u3w",
+   "revisado": true,
+   "original": "https://elnuevodiario.com.do/fundacion-rotaria-realiza-seminarios-reconoce-labor-rafaela-perez/",
+   "imagen": "https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2017/10/Club-Rotary-horz.jpg?resize=400%2C400&quality=100&ssl=1",
+   "resumen": "Leer resumen de la noticia (IA) CLICK AQUÍ RESUMEN Analizando noticia... por favor espera. EL NUEVO DIARIO, SAN CRISTOBAL.- La gobernación rotaria del distrito 4060 realizó los seminarios integrales: Imagen Pública, Membrecía, Programas de Rotary y Fundación Rotaria, éste último dedicado a Rafaela Pérez. La rotaria Pér",
+   "extracto": [
+    "EL NUEVO DIARIO, SAN CRISTOBAL.- La gobernación rotaria del distrito 4060 realizó los seminarios integrales: Imagen Pública, Membrecía, Programas de Rotary y Fundación Rotaria, éste último dedicado a Rafaela Pérez.",
+    "La rotaria Pérez es pasada presidenta del Club Rotario San Cristóbal y es considerada un símbolo del empoderamiento con la finalidad y sostenibilidad Rotaria, explica una nota de prensa.",
+    "Agrega que el motivo de su reconocimiento se debe a la constante motivación que ésta realiza con el fin de que los rotarios de su distrito hagan sus aportes a los diferentes fondos que tiene la fundación.",
+    "Los seminarios contaron más de 200 participantes y con su gobernador, Pedro Vargas a la cabeza."
+   ],
+   "foto": "img/19s4u3w.webp",
+   "intentos": 1,
+   "v": 2
   },
   {
    "titulo": "UNIBE firma acuerdo con Club Rotario Santo Domingo Herrera",
